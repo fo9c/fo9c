@@ -58,7 +58,23 @@ counting of visitors to this page in this section started from July 4, 2024
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
 </a>
 
-![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=fo9c&show_icons=true&theme=transparent&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&border_radius=8)<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
+![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=fo9c&show_icons=true&theme=transparent&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&border_radius=8&include_all_commits=true&count_private=true)
+
+
+
+<picture>
+  <source
+    srcset="https://github-stats.ubrong.com/api?username=fo9c&show_icons=true&theme=transparent&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&border_radius=8&include_all_commits=true&count_private=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-stats.ubrong.com/api?username=fo9c&show_icons=true&theme=transparent&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&border_radius=8&include_all_commits=true&count_private=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
+
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fo9c&hide_progress=true)
 
