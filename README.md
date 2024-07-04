@@ -16,6 +16,7 @@
     <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
     <img alt="Maven" src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white" />
     <img alt="Mybatis" src="https://img.shields.io/badge/Mybatis-1f092c?style=flat-square&logo=mybatis&logoColor=white" />
+    <img alt="Gittee" src="https://img.shields.io/badge/Gitee-C71A36?style=flat-square&logo=gitee&logoColor=white" />
 
 </p>123
 <p>
@@ -66,9 +67,11 @@ theme      [可选] (string)  主题（可用值：default, dark, radical, merko
         <a href="https://github.com/fo9c" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>&nbsp;&nbsp;
         <a href="https://twitter.com/us_3a" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;
         <a href="https://www.linkedin.com/in/thomas-guibert" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
-        <a href="https://www.youtube.com/@fo9c"><img src="https://img.shields.io/badge/youtube-%2312100E.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>&nbsp;&nbsp;
-        <a href="https://medium.com/@th.guibert" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
-    </p>
+        <a href="https://www.youtube.com/@fo9c"><img src="https://img.shields.io/badge/youtube-910b0c?&style=for-the-badge&logo=youtube&logoColor=white"></a>&nbsp;&nbsp;
+        <a href="mailto:fo9c@fo9c.cn"><img src="https://img.shields.io/badge/Email-fo9c%40fo9c.cn-blue?style=for-the-badge&logo=microsoftoutlook&logoColor=white"></a>&nbsp;&nbsp;
+
+
+</p>
 </div>
 
 ### 😄 Pronouns
