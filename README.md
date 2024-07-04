@@ -34,10 +34,11 @@ show_icons [可选] (boolean) false不显示图标,true显示图标
 theme      [可选] (string)  主题（可用值：default, dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula）
 -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=fo9c&theme=onedark)](https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2&column=3&no-bg=true)
+[![trophy](https://github-profile-trophy.vercel.app/?username=fo9c&theme=onedark)](https://github-profile-trophy.vercel.app/?username=fo9c&row=2&column=3&no-bg=true)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
-<!--https://github.com/DenverCoder1/readme-typing-svg-->
+<!--https://github.com/DenverCoder1/readme-typing-svg -->
+
 ### 🌱 I’m currently learning
 - [x] Java
 - [x] SpringBoot
@@ -73,3 +74,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 ```
+
+
+
