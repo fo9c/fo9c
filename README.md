@@ -38,17 +38,16 @@
 <img alt="GitLab" src="https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=white"></img>
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=fo9c&theme=transparent&hide_border=%E5%81%87&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=fo9c&theme=transparent&hide_border=%E5%81%87&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)![](https://count.getloli.com/get/@fo9c.github.readme?theme=rule34)
 <!--https://streak-stats.demolab.com/demo/-->
 
 ![GitHub账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=fo9c&layout=default&theme=tokyonight)
 
-![Visitor Count访客数量](https://profile-counter.glitch.me/{fo9c}/count.svg)
+
 
 ### Profile Views
-counting of visitors to this page in this section started from June 12, 2022
-
-![](https://count.getloli.com/get/@BEPb.github.readme)
+counting of visitors to this page in this section started from July 4, 2024
+![Visitor Count访客数量](https://profile-counter.glitch.me/{fo9c}/count.svg)
 
 ![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=fo9c&show_icons=true&theme=tokyonight)<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 <!--
@@ -67,7 +66,8 @@ theme      [可选] (string)  主题（可用值：default, dark, radical, merko
 - [x] SpringBoot
 
 
-<h2 align="center">📫 How to reach me
+<h2 align="center">📫 How to reach me</h2>
+
 ###  
 <div align="center">
     <p>
