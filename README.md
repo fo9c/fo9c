@@ -16,7 +16,9 @@
     <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
     <img alt="Maven" src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white" />
     <img alt="Mybatis" src="https://img.shields.io/badge/Mybatis-1f092c?style=flat-square&logo=mybatis&logoColor=white" />
-    <img alt="Gittee" src="https://img.shields.io/badge/Gitee-C71A36?style=flat-square&logo=gitee&logoColor=white" />
+    <img alt="macOS Sonoma" src="https://img.shields.io/badge/macOS Sonoma-gray?style=flat-square&logo=apple&logoColor=white" />
+    <img alt="Windows 11" src="https://img.shields.io/badge/Windows%2011-0078D6?style=flat-square&logo=windows10&logoColor=white"></img>
+    <img alt="Microsoft Edge" src="https://img.shields.io/badge/Microsoft%20Edge-0078D7?style=flat-square&logo=microsoft-edge&logoColor=white"></img>
 
 </p>123
 <p>
@@ -44,6 +46,10 @@
 
 ![GitHub账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=fo9c&layout=default&theme=tokyonight)
 
+![Visitor Count](https://profile-counter.glitch.me/{fo9c}/count.svg)
+
+
+
 ![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=fo9c&show_icons=true&theme=tokyonight)<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 <!--
 username   [必填] (string)  被统计信息的github用户名
@@ -62,11 +68,11 @@ theme      [可选] (string)  主题（可用值：default, dark, radical, merko
 
 
 <h2 align="center">📫 How to reach me
-###
+###  
 <div align="center">
     <p>
         <a href="https://github.com/fo9c" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>&nbsp;&nbsp;
-        <a href="https://twitter.com/us_3a" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;
+        <a href="https://twitter.com/us_3a" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=X&logoColor=white" /></a>&nbsp;&nbsp;
         <a href="https://gitee.com/fo9c_us" target="_blank"><img alt="Gitee" src="https://img.shields.io/badge/Gitee-d90013?&style=for-the-badge&logo=gitee&logoColor=white" /></a>&nbsp;&nbsp;
         <a href="https://www.youtube.com/@fo9c"><img src="https://img.shields.io/badge/youtube-910b0c?&style=for-the-badge&logo=youtube&logoColor=white"></a>&nbsp;&nbsp;
         <a href="mailto:fo9c@fo9c.cn"><img alt="Email Me" img src="https://img.shields.io/badge/Email Me-blue?&style=for-the-badge&logo=microsoftoutlook&logoColor=white"></a>&nbsp;&nbsp;
