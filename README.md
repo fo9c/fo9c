@@ -19,7 +19,7 @@
     <img alt="macOS Sonoma" src="https://img.shields.io/badge/macOS Sonoma-gray?style=flat-square&logo=apple&logoColor=white" />
     <img alt="Windows 11" src="https://img.shields.io/badge/Windows%2011-0078D6?style=flat-square&logo=windows10&logoColor=white"></img>
     <img alt="Microsoft Edge" src="https://img.shields.io/badge/Microsoft%20Edge-0078D7?style=flat-square&logo=microsoft-edge&logoColor=white"></img>
-
+    <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"></img>
 </p>123
 <p>
     <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -38,6 +38,7 @@
 <img alt="GitLab" src="https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=white"></img>
 </p>
 
+### 📈 GitHub Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=fo9c&theme=transparent&hide_border=%E5%81%87&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)![](https://count.getloli.com/get/@fo9c.github.readme?theme=rule34)
 <!--https://streak-stats.demolab.com/demo/-->
 
@@ -47,16 +48,21 @@
 
 ### Profile Views
 counting of visitors to this page in this section started from July 4, 2024
+
 ![Visitor Count访客数量](https://profile-counter.glitch.me/{fo9c}/count.svg)
 
-![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=fo9c&show_icons=true&theme=tokyonight)<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
-<!--
-username   [必填] (string)  被统计信息的github用户名
-show_icons [可选] (boolean) false不显示图标,true显示图标
-theme      [可选] (string)  主题（可用值：default, dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula）
--->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+</a>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=fo9c&theme=onedark)](https://github-profile-trophy.vercel.app/?username=fo9c&row=2&column=3&no-bg=true)
+![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=fo9c&show_icons=true&theme=transparent&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&border_radius=8)<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fo9c&hide_progress=true)
+
+[![trophy奖杯](https://github-profile-trophy.vercel.app/?username=fo9c&theme=onedark)](https://github-profile-trophy.vercel.app/?username=fo9c&row=2&column=3&no-bg=true)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 <!--https://github.com/DenverCoder1/readme-typing-svg -->
