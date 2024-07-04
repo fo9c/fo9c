@@ -62,15 +62,14 @@ theme      [可选] (string)  主题（可用值：default, dark, radical, merko
 
 
 <h2 align="center">📫 How to reach me
+###
 <div align="center">
     <p>
         <a href="https://github.com/fo9c" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>&nbsp;&nbsp;
-        <a href="https://twitter.com/us_3a" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;
-        <a href="https://www.linkedin.com/in/thomas-guibert" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
+        <a href="https://twitter.com/us_3a" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;
+        <a href="https://gitee.com/fo9c_us" target="_blank"><img alt="Gitee" src="https://img.shields.io/badge/Gitee-d90013?&style=for-the-badge&logo=gitee&logoColor=white" /></a>&nbsp;&nbsp;
         <a href="https://www.youtube.com/@fo9c"><img src="https://img.shields.io/badge/youtube-910b0c?&style=for-the-badge&logo=youtube&logoColor=white"></a>&nbsp;&nbsp;
-        <a href="mailto:fo9c@fo9c.cn"><img src="https://img.shields.io/badge/Email-fo9c%40fo9c.cn-blue?style=for-the-badge&logo=microsoftoutlook&logoColor=white"></a>&nbsp;&nbsp;
-
-
+        <a href="mailto:fo9c@fo9c.cn"><img alt="Email Me" img src="https://img.shields.io/badge/Email Me-blue?&style=for-the-badge&logo=microsoftoutlook&logoColor=white"></a>&nbsp;&nbsp;
 </p>
 </div>
 
