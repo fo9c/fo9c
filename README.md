@@ -57,7 +57,21 @@
 ![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=fo9c&theme=transparent&text_color=000&icon_color=000&hide_border=false&border_radius=8&include_all_commits=true&count_private=true&show_icons=true&hide=issues)
 ![Github账户最常用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=fo9c&theme=defult&layout=compact&langs_count=6)
 
-[![Harlok's WakaTime stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/wakatime?username=fo9c)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=fo9c&compact=True" />
+</a>
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@fo9c)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=fo9c&compact=True" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
+
 
 ![](https://count.getloli.com/get/@fo9c.github.readme?theme=rule34)
 <!--https://streak-stats.demolab.com/demo/-->
