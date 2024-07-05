@@ -112,7 +112,8 @@ Here are some ideas to get you started:
 ```
 
 <h1 align="center">📫 Reach Me On</h1>
-
+---------------
+<br></br>
 <div align="center">
     <p>
         <a href="https://github.com/fo9c" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>&nbsp;&nbsp;
@@ -123,7 +124,3 @@ Here are some ideas to get you started:
         <a href="mailto:fo9c@fo9c.cn"><img alt="Exmail" img src="https://img.shields.io/badge/Exmail-blue?&style=for-the-badge&logo=microsoftoutlook&logoColor=white"></a>&nbsp;&nbsp;
     </p>
 </div>
-
-
--------------------
-
