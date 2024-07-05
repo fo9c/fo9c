@@ -13,9 +13,9 @@
         <img alt="Microsoft Edge" src="https://img.shields.io/badge/Microsoft%20Edge-0078D7?style=flat-square&logo=microsoft-edge&logoColor=white"> 
     </div>
     <div>
-        
+
 ![Quiec's github stats账户最常用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=fo9c&theme=defult&layout=compact&langs_count=6)
- </div>
+    </div>
 </div>
 123456
 <p>
