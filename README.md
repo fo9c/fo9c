@@ -46,6 +46,7 @@
     <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
     <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-%2335495e.svg?style=flat-square&logo=vue.js&logoColor=%234FC08D" />
     <img alt="GitLab" src="https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=white">
+    <img alt="APIfox" src="https://img.shields.io/badge/APIfox-FCA120?style=flat-square&logo=apifox&logoColor=white"></img>
     <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
     <img alt="GO" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white" />
     <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c&logoColor=white" /> 
@@ -75,13 +76,10 @@ counting of visitors to this page in this section started from July 4, 2024
 
 ![Visitor Count访客数量](https://profile-counter.glitch.me/{fo9c}/count.svg)
 
-![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=fo9c&theme=transparent&bg_color=00000000&text_color=000&icon_color=000&hide_border=true&border_radius=8&include_all_commits=true&count_private=true&show_icons=true&hide=issues#gh-light-mode-only)
-![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=fo9c&theme=transparent&bg_color=00000000&text_color=fff&icon_color=fff&hide_border=true&border_radius=8&include_all_commits=true&count_private=true&show_icons=true&hide=issues#gh-dark-mode-only)
+![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=fo9c&theme=transparent&text_color=000&icon_color=000&hide_border=true&border_radius=8&include_all_commits=true&count_private=true&show_icons=true&hide=issues)
 
 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fo9c&hide_progress=true)
 
 [![trophy奖杯](https://github-profile-trophy.vercel.app/?username=fo9c&column=3&margin-w=15&margin-h=15&no-bg=true)](https://github-profile-trophy.vercel.app/?username=fo9c&row=2&column=3&no-bg=true)
 
@@ -100,6 +98,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 
 ```
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 
 <h1 align="center">📫 Reach Me On</h1>
 
@@ -114,9 +113,11 @@ Here are some ideas to get you started:
     </p>
 </div>
 
+[立即开始你的胶囊渲染之旅](https://capsule-render.vercel.app/api)
+
 -------------------
 
 
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=Bye!&fontSize=90&fontAlign=50&fontAlignY=70&desc={SUB_TITLE}&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=Bye!&fontSize=90&fontAlign=50&fontAlignY=70&desc= &descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
 </p>
