@@ -57,8 +57,7 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=fo9c&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
 
-
-[![Top Languagses账户最常用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=fo9c)](https://github.com/fo9c/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fo9c)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Harlok's WakaTime stats账户最常用语言](https://github-readme-stats.vercel.app/api/wakatime?username=fo9c)
 
@@ -84,7 +83,7 @@ counting of visitors to this page in this section started from July 4, 2024
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fo9c&hide_progress=true)
 
-[![trophy奖杯](https://github-profile-trophy.vercel.app/?username=fo9c&theme=onedark)](https://github-profile-trophy.vercel.app/?username=fo9c&row=2&column=3&no-bg=true)
+[![trophy奖杯](https://github-profile-trophy.vercel.app/?username=fo9c&column=3&margin-w=15&margin-h=15&no-bg=true)](https://github-profile-trophy.vercel.app/?username=fo9c&row=2&column=3&no-bg=true)
 
 
 
@@ -113,3 +112,10 @@ Here are some ideas to get you started:
         <a href="mailto:fo9c@fo9c.cn"><img alt="Exmail" img src="https://img.shields.io/badge/Exmail-blue?&style=for-the-badge&logo=microsoftoutlook&logoColor=white"></a>&nbsp;&nbsp;
     </p>
 </div>
+
+-------------------
+
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=Bye!&fontSize=90&fontAlign=50&fontAlignY=70&desc={SUB_TITLE}&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
+</p>
