@@ -33,6 +33,11 @@
 </p>
 
 
+<object width="340" height="86" data="http://music.163.com/style/swf/widget.swf?
+sid=445154960&type=2&auto=0&width=320&height=66" 
+type="application/x-shockwave-flash"></object> 
+
+
 <div>
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
