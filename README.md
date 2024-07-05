@@ -54,7 +54,10 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=fo9c&theme=transparent&hide_border=%E5%81%87&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)![](https://count.getloli.com/get/@fo9c.github.readme?theme=rule34)
 <!--https://streak-stats.demolab.com/demo/-->
 
-![GitHub账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=fo9c&layout=default&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fo9c)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=fo9c&layout=default&theme=tokyonight&count_private=true)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fo9c/fo9c/output/github-contribution-grid-snake-dark.svg">
