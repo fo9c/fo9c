@@ -16,7 +16,6 @@
     <img alt="Python" src="https://img.shields.io/badge/-Python-blue?style=flat-square&logo=Python&logoColor=white" />
     <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white">
 </p>
-
 <p>
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">    
     <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white">
@@ -29,7 +28,6 @@
     <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white">
     <img alt="Microsoft Edge" src="https://img.shields.io/badge/Microsoft%20Edge-0078D7?style=flat-square&logo=microsoft-edge&logoColor=white">
 </p>
-
 
 ### 👾 &nbsp;Technologies I'm interested in / Moving to
 <p>
@@ -51,24 +49,13 @@
     <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white">   
 </p>
 
-### 📈 GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=fo9c&theme=transparent&hide_border=%E5%81%87&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=348&hide_total_contributions=true)](https://git.io/streak-stats)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fo9c&range=all_time)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=fo9c&theme=transparent&text_color=000&icon_color=000&hide_border=false&border_radius=8&include_all_commits=true&count_private=true&show_icons=true&hide=issues)
-
-![Github账户最常用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=fo9c&theme=defult&layout=compact&langs_count=6)
-
-
-
-### 📊 GitHub Stats
+![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=fo9c&theme=transparent&text_color=000&icon_color=000&hide_border=false&border_radius=8&include_all_commits=true&count_private=true&show_icons=true&hide=issues,contribs&custom_title=GitHub%20Stats)
 ![](https://count.getloli.com/get/@fo9c.github.readme?theme=rule34)
 <!--https://streak-stats.demolab.com/demo/-->
 
-
-
-
-### 🐍 GitHub Contribution Snake
+### 📈 My GitHub Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=fo9c&theme=transparent&hide_border=%E5%81%87&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=347&hide_total_contributions=true)](https://git.io/streak-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fo9c&range=all_time)](https://github.com/anuraghazra/github-readme-stats)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fo9c/fo9c/output/github-contribution-grid-snake-dark.svg">
@@ -115,3 +102,6 @@ Here are some ideas to get you started:
         <a href="mailto:fo9c@fo9c.cn"><img alt="Exmail" img src="https://img.shields.io/badge/Exmail-blue?&style=for-the-badge&logo=microsoftoutlook&logoColor=white"></a>&nbsp;&nbsp;
     </p>
 </div>
+
+
+
