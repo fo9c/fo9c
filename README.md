@@ -111,7 +111,7 @@ Here are some ideas to get you started:
 
 ```
 
-<h1 align="center">📫 Reach Me On</h1>
+<div style="text-align: center; font-size: 24px;">📫 Reach Me On</div>
 
 <br></br>
 <div align="center">
