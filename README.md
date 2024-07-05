@@ -60,10 +60,9 @@
 
 [![Top Languagses账户最常用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=fo9c)](https://github.com/fo9c/github-readme-stats)
 
+![Harlok's WakaTime stats账户最常用语言](https://github-readme-stats.vercel.app/api/wakatime?username=fo9c)
 
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username={fo9c}&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afo9c&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fo9c/fo9c/output/github-contribution-grid-snake-dark.svg">
