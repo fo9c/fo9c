@@ -54,10 +54,10 @@
 ### 📈 GitHub Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=fo9c&theme=transparent&hide_border=%E5%81%87&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
-![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=fo9c&theme=transparent&text_color=000&icon_color=000&text_bold=true&hide_border=false&border_radius=8&include_all_commits=true&count_private=true&show_icons=true&hide=issues)
+![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=fo9c&theme=transparent&text_color=000&icon_color=000&hide_border=false&border_radius=8&include_all_commits=true&count_private=true&show_icons=true&hide=issues)
 ![Github账户最常用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=fo9c&theme=defult&layout=compact&langs_count=6)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fo9c)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/wakatime?username=fo9c)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://count.getloli.com/get/@fo9c.github.readme?theme=rule34)
 <!--https://streak-stats.demolab.com/demo/-->
@@ -111,7 +111,6 @@ Here are some ideas to get you started:
         <a href="mailto:fo9c@fo9c.cn"><img alt="Exmail" img src="https://img.shields.io/badge/Exmail-blue?&style=for-the-badge&logo=microsoftoutlook&logoColor=white"></a>&nbsp;&nbsp;
     </p>
 </div>
-
 
 
 
