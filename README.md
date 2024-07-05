@@ -27,14 +27,9 @@
     <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white">   
     <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white">  
     <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white">
-    <img alt="Microsoft Edge" src="https://img.shields.io/badge/Microsoft%20Edge-0078D7?style=flat-square&logo=microsoft-edge&logoColor=white"> 
-
-![Quiec's github stats账户最常用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=fo9c&theme=defult&layout=compact&langs_count=6)
+    <img alt="Microsoft Edge" src="https://img.shields.io/badge/Microsoft%20Edge-0078D7?style=flat-square&logo=microsoft-edge&logoColor=white">
 </p>
 
-### 🎧 &nbsp;Now Playing
-<!--插入歌曲卡片-->
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31&cover_image=true&theme=default)](https://spotify.com)
 
 ### 👾 &nbsp;Technologies I'm interested in / Moving to
 <p>
@@ -59,6 +54,10 @@
 ### 📈 GitHub Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=fo9c&theme=transparent&hide_border=%E5%81%87&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
+![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=fo9c&theme=transparent&text_color=000&icon_color=000&hide_border=true&border_radius=8&include_all_commits=true&count_private=true&show_icons=true&hide=issues)<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
+![Quiec's github stats账户最常用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=fo9c&theme=defult&layout=compact&langs_count=6)
+
+
 
 ![](https://count.getloli.com/get/@fo9c.github.readme?theme=rule34)
 <!--https://streak-stats.demolab.com/demo/-->
@@ -79,7 +78,6 @@ counting of visitors to this page in this section started from July 4, 2024
 
 ![Visitor Count访客数量](https://profile-counter.glitch.me/{fo9c}/count.svg)
 
-![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=fo9c&theme=transparent&text_color=000&icon_color=000&hide_border=true&border_radius=8&include_all_commits=true&count_private=true&show_icons=true&hide=issues)<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 
 
 
@@ -113,6 +111,5 @@ Here are some ideas to get you started:
         <a href="mailto:fo9c@fo9c.cn"><img alt="Exmail" img src="https://img.shields.io/badge/Exmail-blue?&style=for-the-badge&logo=microsoftoutlook&logoColor=white"></a>&nbsp;&nbsp;
     </p>
 </div>
-
 
 
