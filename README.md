@@ -62,7 +62,8 @@
 
 ![Harlok's WakaTime stats账户最常用语言](https://github-readme-stats.vercel.app/api/wakatime?username=fo9c)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afo9c&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=fo9c&theme=radical&layout=compact)
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fo9c/fo9c/output/github-contribution-grid-snake-dark.svg">
