@@ -61,6 +61,10 @@
 [![Top Languagses账户最常用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=fo9c)](https://github.com/fo9c/github-readme-stats)
 
 
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username={fo9c}&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
+
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fo9c/fo9c/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fo9c/fo9c/output/github-contribution-grid-snake.svg">
