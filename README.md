@@ -51,17 +51,15 @@
 </p>
 
 ### 📈 GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=fo9c&theme=transparent&hide_border=%E5%81%87&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)![](https://count.getloli.com/get/@fo9c.github.readme?theme=rule34)
+[![GitHub Streak](https://streak-stats.demolab.com?user=fo9c&theme=transparent&hide_border=%E5%81%87&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+
+
+![](https://count.getloli.com/get/@fo9c.github.readme?theme=rule34)
 <!--https://streak-stats.demolab.com/demo/-->
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=fo9c&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fo9c)](https://github.com/anuraghazra/github-readme-stats)
-
-![Harlok's WakaTime stats账户最常用语言](https://github-readme-stats.vercel.app/api/wakatime?username=fo9c)
-
-![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=fo9c&theme=radical&layout=compact)
+![Quiec's github stats账户最常用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=fo9c&theme=defult&layout=compact&langs_count=6)
 
 
 <picture>
@@ -101,7 +99,7 @@ Here are some ideas to get you started:
 
 ```
 
-<h1 align="center">📫 Reach Me</h1>
+<h1 align="center">📫 Reach Me On</h1>
 
 <div align="center">
     <p>
@@ -109,6 +107,7 @@ Here are some ideas to get you started:
         <a href="https://twitter.com/us_3a" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=X&logoColor=white" /></a>&nbsp;&nbsp;
         <a href="https://gitee.com/fo9c_us" target="_blank"><img alt="Gitee" src="https://img.shields.io/badge/Gitee-d90013?&style=for-the-badge&logo=gitee&logoColor=white" /></a>&nbsp;&nbsp;
         <a href="https://www.youtube.com/@fo9c"><img src="https://img.shields.io/badge/youtube-910b0c?&style=for-the-badge&logo=youtube&logoColor=white"></a>&nbsp;&nbsp;
+        <a href="https://steamcommunity.com/profiles/76561199036378412/" target="_blank"><img alt="Steam" src="https://img.shields.io/badge/Steam-1c384d.svg?&style=for-the-badge&logo=steam&logoColor=white" /></a>&nbsp;&nbsp;
         <a href="mailto:fo9c@fo9c.cn"><img alt="Exmail" img src="https://img.shields.io/badge/Exmail-blue?&style=for-the-badge&logo=microsoftoutlook&logoColor=white"></a>&nbsp;&nbsp;
     </p>
 </div>
@@ -117,5 +116,5 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=Bye!&fontSize=90&fontAlign=50&fontAlignY=70&desc={SUB_TITLE}&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=Bye!&fontSize=90&fontAlign=50&fontAlignY=70&desc={SUB_TITLE}&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
 </p>
