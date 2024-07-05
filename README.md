@@ -32,21 +32,9 @@
 ![Quiec's github stats账户最常用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=fo9c&theme=defult&layout=compact&langs_count=6)
 </p>
 
-
-<object width="340" height="86" data="http://music.163.com/style/swf/widget.swf?
-sid=445154960&type=2&auto=0&width=320&height=66" 
-type="application/x-shockwave-flash"></object> 
-
-
-<div>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
-    </a>
-    <a href="https://github.com/anuraghazra/anuraghazra.github.io">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
-    </a>
-</div>
-
+### 🎧 &nbsp;Now Playing
+<!--插入歌曲卡片-->
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31&cover_image=true&theme=default)](https://spotify.com)
 
 ### 👾 &nbsp;Technologies I'm interested in / Moving to
 <p>
