@@ -112,7 +112,6 @@ Here are some ideas to get you started:
 ```
 
 <div style="text-align: center; font-size: 24px;">📫 Reach Me On</div>
-
 <br></br>
 <div align="center">
     <p>
