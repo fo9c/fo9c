@@ -58,18 +58,15 @@
 ![Github账户最常用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=fo9c&theme=defult&layout=compact&langs_count=6)
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=fo9c&compact=True" />
-</a>
-
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@fo9c)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=fo9c&compact=True" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=fo9c&compact=True&range=all_time" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fo9c&range=all_time)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=fo9c&range=all_time" width="300" />
 </a>
 
 
@@ -79,6 +76,8 @@
 
 
 
+
+### 🐍 GitHub Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fo9c/fo9c/output/github-contribution-grid-snake-dark.svg">
@@ -125,6 +124,7 @@ Here are some ideas to get you started:
         <a href="mailto:fo9c@fo9c.cn"><img alt="Exmail" img src="https://img.shields.io/badge/Exmail-blue?&style=for-the-badge&logo=microsoftoutlook&logoColor=white"></a>&nbsp;&nbsp;
     </p>
 </div>
+
 
 
 
