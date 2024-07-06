@@ -2,16 +2,39 @@
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=✞ジェルばんは✞&height=150&fontSize=60&desc=✞%20%20%20%20%20%20%20%20✞&descAlignY=75&descAlign=60)
 
 
-<table style="border-collapse: collapse; border: none;">
-    <tr>
-        <td style="border: none;">单元格1</td>
-        <td style="border: none;">单元格2</td>
-    </tr>
-    <tr>
-        <td style="border: none;">单元格3</td>
-        <td style="border: none;">单元格4</td>
-    </tr>
+<style>
+  .borderless-table {
+    border-collapse: collapse;
+  }
+  .borderless-table th,
+  .borderless-table td {
+    border: none;
+  }
+</style>
+
+<table class="borderless-table">
+  <tr>
+    <th>标题1</th>
+    <th>标题2</th>
+  </tr>
+  <tr>
+    <td>内容1</td>
+    <td>内容2</td>
+  </tr>
 </table>
+
+<table>
+  <tr>
+    <th>标题1</th>
+    <th>标题2</th>
+  </tr>
+  <tr>
+    <td>内容1</td>
+    <td>内容2</td>
+  </tr>
+</table>
+
+
 
 <h1 align="center">Hi There!!👋, I'm fo9c.</h1>
 
