@@ -2,7 +2,19 @@
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=✞ジェルばんは✞&height=150&fontSize=60&desc=✞%20%20%20%20%20%20%20%20✞&descAlignY=75&descAlign=60)
 
 
+<table style="border-collapse: collapse; border: none;">
+    <tr>
+        <td style="border: none;">单元格1</td>
+        <td style="border: none;">单元格2</td>
+    </tr>
+    <tr>
+        <td style="border: none;">单元格3</td>
+        <td style="border: none;">单元格4</td>
+    </tr>
+</table>
+
 <h1 align="center">Hi There!!👋, I'm fo9c.</h1>
+
 
 <div align="center">
 
@@ -15,16 +27,15 @@
     <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
     <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
     <img alt="Maven" src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white" />
-
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fo9c&range=all_time)](https://github.com/anuraghazra/github-readme-stats)
-    
-<br>
+    <br>
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">    
     <img alt="Mybatis" src="https://img.shields.io/badge/Mybatis-1f092c?style=flat-square&logo=mybatis&logoColor=white" />
     <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
     <img alt="Python" src="https://img.shields.io/badge/-Python-blue?style=flat-square&logo=Python&logoColor=white" />
     <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white">
 </p>
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fo9c&range=all_time)](https://github.com/anuraghazra/github-readme-stats)
 <p>
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">    
     <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white">
@@ -75,9 +86,6 @@
 
 ![GitHub Stats](https://github-stats.ubrong.com/api?username=fo9c&theme=transparent&text_color=000&icon_color=000&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&hide=issues&custom_title=GitHub%20Stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=fo9c&theme=transparent&hide_border=%E5%81%87&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_height=170&card_width=347&hide_total_contributions=true)](https://git.io/streak-stats)
-
-
-
 
 ## Profile Views
 counting of visitors to this page in this section started from July 4, 2024
