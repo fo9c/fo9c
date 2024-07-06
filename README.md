@@ -49,10 +49,10 @@
     <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white">   
 </p>
 
-![](https://count.getloli.com/get/@fo9c.github.readme?theme=rule34)
 <!--https://streak-stats.demolab.com/demo/-->
 
 ![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=fo9c&theme=transparent&text_color=000&icon_color=000&hide_border=false&border_radius=8&include_all_commits=true&count_private=true&show_icons=true&hide=issues,contribs&custom_title=GitHub%20Stats)
+![](https://count.getloli.com/get/@fo9c.github.readme?theme=rule34)
 
 ### 📈 My GitHub Stats
 <picture>
@@ -73,7 +73,7 @@ counting of visitors to this page in this section started from July 4, 2024
 
 
 
-[![trophy奖杯](https://github-profile-trophy.vercel.app/?username=fo9c&column=3&margin-w=15&margin-h=15&no-bg=true)](https://github-profile-trophy.vercel.app/?username=fo9c&row=2&column=3&no-bg=true)
+[![trophy奖杯](https://github-profile-trophy.vercel.app/?username=fo9c&row=2&column=3&margin-w=15&margin-h=15&no-bg=true)](https://github-profile-trophy.vercel.app/?username=fo9c&row=2&column=3&no-bg=true)
 
 
 
