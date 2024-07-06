@@ -1,3 +1,15 @@
+![header](https://capsule-render.vercel.app/api?type=slice)
+
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&fontAlign=80&text=†ジェルばんは†&fontAlignY=350&color=gradientheight=800)
+
+## Transparent <a id="transparent">
+
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=✞ジェルばんは✞&height=150&fontSize=60&desc=✞%20%20%20%20%20%20%20%20✞&descAlignY=75&descAlign=60)
+
+## Shark <a id="shark">
+
+![shark](https://capsule-render.vercel.app/api?type=shark&color=gradient&height=140)
+
 <h1 align="center">Hi There!!👋, I'm fo9c.</h1>
 <div align="center">
 
@@ -20,7 +32,8 @@
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">    
     <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white">
     <img alt="GitHub Copilot" src="https://img.shields.io/badge/GitHub%20Copilot-2088FF?style=flat-square&logo=github-copilot&logoColor=white">
-    <img alt="Windows 11" src="https://img.shields.io/badge/Windows%2011-0078D6?style=flat-square&logo=windows10&logoColor=white">
+    <img alt="Windows 11" src="https://img.shields.io/badge/Windows%2011-0078D6?style=flat-square&logo=windows10    &logoColor=white">
+    <img alt="APIFox" src="https://img.shields.io/badge/APIfox-FCA120?style=flat-square&logo=apifox&logoColor=white"></img>
     <img alt="macOS Sonoma" src="https://img.shields.io/badge/macOS Sonoma-gray?style=flat-square&logo=apple&logoColor=white" />
     <img alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white">
     <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white">   
@@ -42,7 +55,6 @@
     <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
     <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-%2335495e.svg?style=flat-square&logo=vue.js&logoColor=%234FC08D" />
     <img alt="GitLab" src="https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=white">
-    <img alt="APIfox" src="https://img.shields.io/badge/APIfox-FCA120?style=flat-square&logo=apifox&logoColor=white"></img>
     <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
     <img alt="GO" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white" />
     <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c&logoColor=white" /> 
