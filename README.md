@@ -1,41 +1,6 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&fontAlign=80&text=†ジェルばんは†&fontAlignY=350&color=gradientheight=800)
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=✞ジェルばんは✞&height=150&fontSize=60&desc=✞%20%20%20%20%20%20%20%20✞&descAlignY=75&descAlign=60)
 
-
-<style>
-  .borderless-table {
-    border-collapse: collapse;
-  }
-  .borderless-table th,
-  .borderless-table td {
-    border: none;
-  }
-</style>
-
-<table class="borderless-table">
-  <tr>
-    <th>标题1</th>
-    <th>标题2</th>
-  </tr>
-  <tr>
-    <td>内容1</td>
-    <td>内容2</td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <th>标题1</th>
-    <th>标题2</th>
-  </tr>
-  <tr>
-    <td>内容1</td>
-    <td>内容2</td>
-  </tr>
-</table>
-
-
-
 <h1 align="center">Hi There!!👋, I'm fo9c.</h1>
 
 
@@ -44,7 +9,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Maitree&weight=600&size=30&duration=2000&pause=1800&color=518AFF&center=%E7%9C%9F&vCenter=%E7%9C%9F&repeat=true&random=%E5%81%87&width=805&center=true&duration=2000&lines=I%60m+a+back-end+engineer+from+China.;Enjoying+swapping+programming+knowledge+with+you!)](https://git.io/typing-svg)
 </div><!--https://github.com/DenverCoder1/readme-typing-svg -->
 
-##  &nbsp;Tech Stack & Tools I code with
+#  &nbsp;Tech Stack & Tools I code with                                      My Favorite Stack
 <p>
     <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
     <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
