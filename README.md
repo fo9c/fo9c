@@ -57,11 +57,10 @@
     <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white">   
 </p>
 
-<!--https://streak-stats.demolab.com/demo/-->
 
 ![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=fo9c&theme=transparent&text_color=000&icon_color=000&hide_border=false&border_radius=8&include_all_commits=true&count_private=true&show_icons=true&hide=issues,contribs&custom_title=GitHub%20Stats)
-![](https://count.getloli.com/get/@fo9c.github.readme?theme=rule34)
 
+![](https://count.getloli.com/get/@fo9c.github.readme?theme=rule34)
 <img src="https://count.getloli.com/get/@fo9c.github.readme?theme=rule34" width="200">
 
 
@@ -73,6 +72,8 @@
 </picture>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=fo9c&theme=transparent&hide_border=%E5%81%87&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_height=170&card_width=347&hide_total_contributions=true)](https://git.io/streak-stats)
+<!--https://streak-stats.demolab.com/demo/-->
+
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fo9c&range=all_time)](https://github.com/anuraghazra/github-readme-stats)
 
 
