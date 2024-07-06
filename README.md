@@ -15,7 +15,10 @@
     <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
     <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
     <img alt="Maven" src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white" />
-    <br>
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fo9c&range=all_time)](https://github.com/anuraghazra/github-readme-stats)
+    
+<br>
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">    
     <img alt="Mybatis" src="https://img.shields.io/badge/Mybatis-1f092c?style=flat-square&logo=mybatis&logoColor=white" />
     <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
@@ -59,7 +62,7 @@
 
 
 
-![](https://count.getloli.com/get/@fo9c.github.readme?theme=rule34)
+[![](https://count.getloli.com/get/@fo9c.github.readme?theme=rule34)](https://streak-stats.demolab.com/demo/)
 <img src="https://count.getloli.com/get/@fo9c.github.readme?theme=rule34" width="200">
 
 
@@ -73,8 +76,7 @@
 ![GitHub Stats](https://github-stats.ubrong.com/api?username=fo9c&theme=transparent&text_color=000&icon_color=000&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&hide=issues&custom_title=GitHub%20Stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=fo9c&theme=transparent&hide_border=%E5%81%87&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_height=170&card_width=347&hide_total_contributions=true)](https://git.io/streak-stats)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fo9c&range=all_time)](https://github.com/anuraghazra/github-readme-stats)
-<!--https://streak-stats.demolab.com/demo/-->
+
 
 
 ## Profile Views
