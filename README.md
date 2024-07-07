@@ -1,11 +1,11 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=150&fontAlign=80&text=†ジェルばんは†&fontAlignY=350&color=gradientheight=800)
-![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=✞ジェルばんは✞&height=150&fontSize=60&desc=✞%20%20%20%20%20%20%20%20✞&descAlignY=75&descAlign=60)
 <h1 align="center">Hi There!!👋, I'm fo9c.</h1>
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Maitree&weight=600&size=30&duration=2000&pause=1800&color=518AFF&center=%E7%9C%9F&vCenter=%E7%9C%9F&repeat=true&random=%E5%81%87&width=805&center=true&duration=2000&lines=I%60m+a+back-end+engineer+from+China.;Enjoying+swapping+programming+knowledge+with+you!)](https://git.io/typing-svg)
 </div>
 
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=000&text=Tech%20Stack&height=30&fontSize=30)
 
 # 🛠 &nbsp;Tech Stack & Tools I code with
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
@@ -56,16 +56,12 @@
     <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white">   
 </p>
 
-[![](https://count.getloli.com/get/@fo9c.github.readme?theme=rule34&width=200)](https://streak-stats.demolab.com/demo/)
 ## 📈 My GitHub Stats
-
 ![GitHub Stats](https://github-stats.ubrong.com/api?username=fo9c&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&hide=issues&custom_title=GitHub%20Stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=fo9c&theme=transparent&hide_border=%E5%81%87&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_height=170&card_width=347&hide_total_contributions=true)](https://git.io/streak-stats)
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fo9c&range=all_time)]()
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fo9c&card_width=347&size_weight=0&count_weight=1&layout=compact&langs_count=6)
 [![trophy奖杯](https://github-profile-trophy.vercel.app/?username=fo9c&row=1&&margin-w=5&no-bg=true)](https://github-profile-trophy.vercel.app/?username=fo9c&row=2&column=3&no-bg=true)
-
-
 ```text
                                  ,,, /\_/\ ,,,
                                   \\=('o')=//
@@ -97,9 +93,9 @@
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31mlhz3dotq6fvu5rjvpmovblqby&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 [![](https://count.getloli.com/get/@fo9c.github.readme?theme=rule34&width=200)](https://streak-stats.demolab.com/demo/)
+</div>
 
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=000&text=📫%20How%20to%20reach%20me%20&height=60&fontSize=45)
-
 <div align="center">
     <p>
         <a href="https://github.com/fo9c" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>&nbsp;&nbsp;
@@ -111,7 +107,6 @@
     </p>
 </div>
 
-
 ----
 <p align="center">
   Counting of visitors to this page started from <b>July 4, 2024</b><br>
@@ -122,4 +117,3 @@
 <p align="center"><img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> 
 <img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/>
 <img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/></p>
-
