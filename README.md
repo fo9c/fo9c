@@ -98,8 +98,10 @@
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31mlhz3dotq6fvu5rjvpmovblqby&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 [![](https://count.getloli.com/get/@fo9c.github.readme?theme=rule34&width=200)](https://streak-stats.demolab.com/demo/)
 </div>
+
+
+<span style="font-size: 32px; font-family: Arial;"><b>📫 &nbsp; How to reach me</b></span>
 <div align="center">
-    <span style="font-size: 32px; font-family: Arial;"><b>📫 &nbsp; How to reach me</b></span>
     <p>
         <a href="https://github.com/fo9c" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>&nbsp;&nbsp;
         <a href="https://twitter.com/us_3a" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=X&logoColor=white" /></a>&nbsp;&nbsp;
