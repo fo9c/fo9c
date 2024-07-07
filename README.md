@@ -98,7 +98,7 @@
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31mlhz3dotq6fvu5rjvpmovblqby&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 [![](https://count.getloli.com/get/@fo9c.github.readme?theme=rule34&width=200)](https://streak-stats.demolab.com/demo/)
 
-![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=000&text=📫%20How%20to%20reach%20me%20&height=200&fontSize=45&descAlignY=75&descAlign=60)
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=000&text=📫%20How%20to%20reach%20me%20&height=200&fontSize=45)
 
 <div align="center">
     <p>
