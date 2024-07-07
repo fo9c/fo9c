@@ -61,16 +61,10 @@
 
 
 
-[![](https://count.getloli.com/get/@fo9c.github.readme?theme=rule34)](https://streak-stats.demolab.com/demo/)
-<img src="https://count.getloli.com/get/@fo9c.github.readme?theme=rule34" width="200">
+[![](https://count.getloli.com/get/@fo9c.github.readme?theme=rule34&width=200)](https://streak-stats.demolab.com/demo/)
 
 
 ## 📈 My GitHub Stats
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fo9c/fo9c/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fo9c/fo9c/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/fo9c/fo9c/output/github-contribution-grid-snake.svg">
-</picture>
 
 ![GitHub Stats](https://github-stats.ubrong.com/api?username=fo9c&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&hide=issues&custom_title=GitHub%20Stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=fo9c&theme=transparent&hide_border=%E5%81%87&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_height=170&card_width=347&hide_total_contributions=true)](https://git.io/streak-stats)
@@ -78,9 +72,7 @@
 ## Profile Views
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31mlhz3dotq6fvu5rjvpmovblqby&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31mlhz3dotq6fvu5rjvpmovblqby&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
-counting of visitors to this page in this section started from July 4, 2024
 
 [![trophy奖杯](https://github-profile-trophy.vercel.app/?username=fo9c&row=2&column=3&margin-w=15&margin-h=15&no-bg=true)](https://github-profile-trophy.vercel.app/?username=fo9c&row=2&column=3&no-bg=true)
 
@@ -98,11 +90,16 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 
 ```
-<tr>
-    <td colspan="2" align="center">
-        <img alt="GitHub Activity Graph" align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=fo9c&theme=github-compact&hide_border=true&area=true&area_color=40c463&line=3CB371&point=3CB371&hide_title=true&grid=false" />
-    </td>
-</tr>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fo9c/fo9c/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fo9c/fo9c/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/fo9c/fo9c/output/github-contribution-grid-snake.svg">
+</picture>
+
+![GitHub Activity Graph](https://raw.githubusercontent.com/fo9c/fo9c/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
+![GitHub Activity Graph](https://raw.githubusercontent.com/fo9c/fo9c/output/github-contribution-grid-snake-dark.svg#gh-light-mode-only)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fo9c&theme=github-compact&hide_border=true&area=true&area_color=40c463&line=3CB371&point=3CB371&hide_title=true&grid=false)](https://github.com/fo9c)
 
 
 <h1 align="center">📫 Reach Me On</h1>  
@@ -118,6 +115,10 @@ Here are some ideas to get you started:
     </p>
 </div>
 
-<p align="center">This <b>README</b> file updated <b>EVERY 3 hours</b>!
-</br>
-Last refresh: Sunday, 7 July, 05:01 CEST<br />
+
+----
+<p align="center">
+  Counting of visitors to this page started from <b>July 4, 2024</b><br>
+  This <b>README</b> file is updated <b>EVERY 3 hours</b>!<br>
+  Last refresh: Sunday, 7 July, 05:01 CEST
+</p>
