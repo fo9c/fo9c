@@ -67,8 +67,8 @@
 ![GitHub Stats](https://github-stats.ubrong.com/api?username=fo9c&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&hide=issues&custom_title=GitHub%20Stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=fo9c&theme=transparent&hide_border=%E5%81%87&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_height=170&card_width=347&hide_total_contributions=true)](https://git.io/streak-stats)
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fo9c&range=all_time)]()
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fo9c&card_width=200&layout=compact&langs_count=6&size_weight=1&count_weight=0)
-[![trophy奖杯](https://github-profile-trophy.vercel.app/?username=fo9c&row=1&column=6&margin-w=15&margin-h=15&no-bg=true)](https://github-profile-trophy.vercel.app/?username=fo9c&row=2&column=3&no-bg=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fo9c&card_width=347&layout=compact&langs_count=6&size_weight=1&count_weight=0)
+[![trophy奖杯](https://github-profile-trophy.vercel.app/?username=fo9c&row=1&&margin-w=5&no-bg=true)](https://github-profile-trophy.vercel.app/?username=fo9c&row=2&column=3&no-bg=true)
 
 
 ```text
