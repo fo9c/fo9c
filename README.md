@@ -1,6 +1,17 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&fontAlign=80&text=†ジェルばんは†&fontAlignY=350&color=gradientheight=800)
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=✞ジェルばんは✞&height=150&fontSize=60&desc=✞%20%20%20%20%20%20%20%20✞&descAlignY=75&descAlign=60)
 
+<div align="center">
+  <a href="https://open.spotify.com/user/fo9c">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=fo9c&count=5&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31mlhz3dotq6fvu5rjvpmovblqby)
+
+
 <h1 align="center">Hi There!!👋, I'm fo9c.</h1>
 
 
@@ -72,7 +83,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/fo9c/fo9c/output/github-contribution-grid-snake.svg">
 </picture>
 
-![GitHub Stats](https://github-stats.ubrong.com/api?username=fo9c&theme=transparent&text_color=000&icon_color=000&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&hide=issues&custom_title=GitHub%20Stats)
+![GitHub Stats](https://github-stats.ubrong.com/api?username=fo9c&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&hide=issues&custom_title=GitHub%20Stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=fo9c&theme=transparent&hide_border=%E5%81%87&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_height=170&card_width=347&hide_total_contributions=true)](https://git.io/streak-stats)
 
 ## Profile Views
