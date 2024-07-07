@@ -22,8 +22,6 @@
     <img alt="Python" src="https://img.shields.io/badge/-Python-blue?style=flat-square&logo=Python&logoColor=white" />
     <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white">
 </p>
-
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fo9c&range=all_time)](https://github.com/anuraghazra/github-readme-stats)
 <p>
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">    
     <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white">
@@ -68,13 +66,15 @@
 
 ![GitHub Stats](https://github-stats.ubrong.com/api?username=fo9c&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&hide=issues&custom_title=GitHub%20Stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=fo9c&theme=transparent&hide_border=%E5%81%87&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_height=170&card_width=347&hide_total_contributions=true)](https://git.io/streak-stats)
+[![trophy奖杯](https://github-profile-trophy.vercel.app/?username=fo9c&row=2&column=3&margin-w=15&margin-h=15&no-bg=true)](https://github-profile-trophy.vercel.app/?username=fo9c&row=2&column=3&no-bg=true)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fo9c&range=all_time)](https://github.com/anuraghazra/github-readme-stats)
+
 ```text
 Java        █████████████████████████   90%
 Python      █████████████████████████   90%
 C           █████████████████████████   90%
 
 ```
-[![trophy奖杯](https://github-profile-trophy.vercel.app/?username=fo9c&row=2&column=3&margin-w=15&margin-h=15&no-bg=true)](https://github-profile-trophy.vercel.app/?username=fo9c&row=2&column=3&no-bg=true)
 
 ## Profile Views
 
@@ -93,9 +93,6 @@ C           ██████████████████████�
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fo9c/fo9c/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/fo9c/fo9c/output/github-contribution-grid-snake.svg">
 </picture>
-
-![GitHub Activity Graph](https://raw.githubusercontent.com/fo9c/fo9c/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
-![GitHub Activity Graph](https://raw.githubusercontent.com/fo9c/fo9c/output/github-contribution-grid-snake-dark.svg#gh-light-mode-only)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fo9c/fo9c/output/github-contribution-grid-snake-dark.svg">
@@ -127,3 +124,5 @@ C           ██████████████████████�
   Last refresh: Sunday, 7 July, 05:01 CEST
 </p>
 
+![GitHub Activity Graph](https://raw.githubusercontent.com/fo9c/fo9c/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
+![GitHub Activity Graph](https://raw.githubusercontent.com/fo9c/fo9c/output/github-contribution-grid-snake-dark.svg#gh-light-mode-only)
