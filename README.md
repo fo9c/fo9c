@@ -85,12 +85,6 @@
                                               /____/
 ```
 
-## Profile Views
-<div align="center">
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31mlhz3dotq6fvu5rjvpmovblqby&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
-</div>
-
 ## 📊 GitHub Activity Graph
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fo9c&theme=github-compact&hide_border=true&area=true&area_color=40c463&line=3CB371&point=3CB371&hide_title=true&grid=false)](https://github.com/fo9c)
 
@@ -99,6 +93,15 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fo9c/fo9c/output/github-contribution-grid-snake.svg">
   <img alt="GitHub Activity Graph" src="https://raw.githubusercontent.com/fo9c/fo9c/output/github-contribution-grid-snake.svg">
 </picture>
+
+## Profile Views
+<div align="center">
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31mlhz3dotq6fvu5rjvpmovblqby&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fo9c&card_width=347&size_weight=0&count_weight=1&layout=compact&langs_count=6)
+</div>
+
+
 
 
 <div align="center">
