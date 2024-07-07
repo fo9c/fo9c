@@ -76,7 +76,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=fo9c&theme=transparent&hide_border=%E5%81%87&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_height=170&card_width=347&hide_total_contributions=true)](https://git.io/streak-stats)
 
 ## Profile Views
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31mlhz3dotq6fvu5rjvpmovblqby&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31mlhz3dotq6fvu5rjvpmovblqby&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31mlhz3dotq6fvu5rjvpmovblqby&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31mlhz3dotq6fvu5rjvpmovblqby&redirect=true)
 
 counting of visitors to this page in this section started from July 4, 2024
 
@@ -115,3 +115,7 @@ Here are some ideas to get you started:
         <a href="mailto:fo9c@fo9c.cn"><img alt="Exmail" img src="https://img.shields.io/badge/Exmail-blue?&style=for-the-badge&logo=microsoftoutlook&logoColor=white"></a>&nbsp;&nbsp;
     </p>
 </div>
+
+<p align="center">This <b>README</b> file updated <b>EVERY 3 hours</b>!
+</br>
+Last refresh: Sunday, 7 July, 05:01 CEST<br />
