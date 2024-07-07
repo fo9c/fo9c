@@ -60,7 +60,7 @@
 ## 📈 My GitHub Stats
 
 ![GitHub Stats](https://github-stats.ubrong.com/api?username=fo9c&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&hide=issues&custom_title=GitHub%20Stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=fo9c&theme=transparent&hide_border=%E5%81%87&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_height=170&card_width=347&hide_total_contributions=true&&card_height=200)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=fo9c&theme=transparent&hide_border=%E5%81%87&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_height=170&card_width=347&hide_total_contributions=true)](https://git.io/streak-stats)
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fo9c&range=all_time)]()
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fo9c&card_width=347&size_weight=0&count_weight=1&layout=compact&langs_count=6)
 [![trophy奖杯](https://github-profile-trophy.vercel.app/?username=fo9c&row=1&&margin-w=5&no-bg=true)](https://github-profile-trophy.vercel.app/?username=fo9c&row=2&column=3&no-bg=true)
@@ -90,22 +90,16 @@
   <img alt="GitHub Activity Graph" src="https://raw.githubusercontent.com/fo9c/fo9c/output/github-contribution-grid-snake.svg">
 </picture>
 
-## Profile Views
+<!--介绍我的喜好-->
+##  🎮 &nbsp;Hobbies
+
 <div align="center">
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31mlhz3dotq6fvu5rjvpmovblqby&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 [![](https://count.getloli.com/get/@fo9c.github.readme?theme=rule34&width=200)](https://streak-stats.demolab.com/demo/)
-
-</div>
-
-
-
-
-<div align="center">
-
-# 📫 &nbsp; How to reach me
 </div>
 <div align="center">
+    <span style="font-size: 32px; font-family: Arial;"><b>📫 &nbsp; How to reach me</b></span>
     <p>
         <a href="https://github.com/fo9c" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>&nbsp;&nbsp;
         <a href="https://twitter.com/us_3a" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=X&logoColor=white" /></a>&nbsp;&nbsp;
