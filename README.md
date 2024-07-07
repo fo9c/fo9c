@@ -1,4 +1,4 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&fontAlign=80&text=†ジェルばんは†&fontAlignY=350&color=gradientheight=800)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=150&fontAlign=80&text=†ジェルばんは†&fontAlignY=350&color=gradientheight=800)
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=✞ジェルばんは✞&height=150&fontSize=60&desc=✞%20%20%20%20%20%20%20%20✞&descAlignY=75&descAlign=60)
 <h1 align="center">Hi There!!👋, I'm fo9c.</h1>
 <div align="center">
@@ -71,10 +71,18 @@
 
 
 ```text
-Java        █████████████████████████   90%
-Python      █████████████████████████   90%
-C           █████████████████████████   90%
-
+                                 ,,, /\_/\ ,,,
+                                  \\=('o')=//
+///////////////////////////////////////////////////////////////////////////////////////////////////////////
+&lt;&lt;&lt;&lt;&lt;&lt;&lt&lt;&lt;&lt;&lt;&l t;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+                                   // (( \\
+              __  ___          __ "'   )) "'__                 ____      ____
+             /  |/  /___ _____/ /__   ((   / /_  __  __       / __/___  / __ \_____
+            / /|_/ / __ `/ __  / _ \   `  / __ \/ / / /      / /_/ __ \/ /_/ / ___/
+           / /  / / /_/ / /_/ /  __/     / /_/ / /_/ /      / __/ /_/ /\__, / /__
+          /_/  /_/\__/_/\__,_/\___/     /_.___/\__, /      /_/  \____//____/\___/
+                                              /____/
 ```
 
 ## Profile Views
@@ -84,13 +92,14 @@ C           ██████████████████████�
 </div>
 
 ## 📊 GitHub Activity Graph
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fo9c&theme=github-compact&hide_border=true&area=true&area_color=40c463&line=3CB371&point=3CB371&hide_title=true&grid=false)](https://github.com/fo9c)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fo9c/fo9c/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fo9c/fo9c/output/github-contribution-grid-snake.svg">
   <img alt="GitHub Activity Graph" src="https://raw.githubusercontent.com/fo9c/fo9c/output/github-contribution-grid-snake.svg">
 </picture>
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fo9c&theme=github-compact&hide_border=true&area=true&area_color=40c463&line=3CB371&point=3CB371&hide_title=true&grid=false)](https://github.com/fo9c)
 
 
 <h1 align="center">📫 Reach Me On</h1>  
