@@ -1,17 +1,6 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&fontAlign=80&text=†ジェルばんは†&fontAlignY=350&color=gradientheight=800)
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=✞ジェルばんは✞&height=150&fontSize=60&desc=✞%20%20%20%20%20%20%20%20✞&descAlignY=75&descAlign=60)
 
-<div align="center">
-  <a href="https://open.spotify.com/user/fo9c">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=fo9c&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31mlhz3dotq6fvu5rjvpmovblqby)
-
-
 <h1 align="center">Hi There!!👋, I'm fo9c.</h1>
 
 
@@ -87,15 +76,11 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=fo9c&theme=transparent&hide_border=%E5%81%87&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_height=170&card_width=347&hide_total_contributions=true)](https://git.io/streak-stats)
 
 ## Profile Views
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31mlhz3dotq6fvu5rjvpmovblqby&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31mlhz3dotq6fvu5rjvpmovblqby&redirect=true)
+
 counting of visitors to this page in this section started from July 4, 2024
 
-![Visitor Count访客数量](https://profile-counter.glitch.me/{fo9c}/count.svg)
-
-
-
-
 [![trophy奖杯](https://github-profile-trophy.vercel.app/?username=fo9c&row=2&column=3&margin-w=15&margin-h=15&no-bg=true)](https://github-profile-trophy.vercel.app/?username=fo9c&row=2&column=3&no-bg=true)
-
 
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
@@ -111,6 +96,12 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 
 ```
+<tr>
+    <td colspan="2" align="center">
+        <img alt="GitHub Activity Graph" align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=fo9c&theme=github-compact&hide_border=true&area=true&area_color=8a2be2&line=8a2be2&point=8a2be2&hide_title=true&grid=false" />
+    </td>
+</tr>
+
 
 <h1 align="center">📫 Reach Me On</h1>  
 
