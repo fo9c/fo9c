@@ -68,28 +68,25 @@
 
 ![GitHub Stats](https://github-stats.ubrong.com/api?username=fo9c&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&hide=issues&custom_title=GitHub%20Stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=fo9c&theme=transparent&hide_border=%E5%81%87&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_height=170&card_width=347&hide_total_contributions=true)](https://git.io/streak-stats)
+```text
+Java        █████████████████████████   90%
+Python      █████████████████████████   90%
+C           █████████████████████████   90%
+
+```
+[![trophy奖杯](https://github-profile-trophy.vercel.app/?username=fo9c&row=2&column=3&margin-w=15&margin-h=15&no-bg=true)](https://github-profile-trophy.vercel.app/?username=fo9c&row=2&column=3&no-bg=true)
 
 ## Profile Views
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31mlhz3dotq6fvu5rjvpmovblqby&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 
-[![trophy奖杯](https://github-profile-trophy.vercel.app/?username=fo9c&row=2&column=3&margin-w=15&margin-h=15&no-bg=true)](https://github-profile-trophy.vercel.app/?username=fo9c&row=2&column=3&no-bg=true)
 
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 
 
-## 📊 Weekly development breakdown
-```text
-Java         10 hrs 30 mins  ████████████████████████▒  90.0%
-**fo9c/fo9c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-
-```
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fo9c/fo9c/output/github-contribution-grid-snake-dark.svg">
@@ -99,6 +96,13 @@ Here are some ideas to get you started:
 
 ![GitHub Activity Graph](https://raw.githubusercontent.com/fo9c/fo9c/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 ![GitHub Activity Graph](https://raw.githubusercontent.com/fo9c/fo9c/output/github-contribution-grid-snake-dark.svg#gh-light-mode-only)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fo9c/fo9c/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fo9c/fo9c/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Activity Graph" src="https://raw.githubusercontent.com/fo9c/fo9c/output/github-contribution-grid-snake.svg">
+</picture>
+
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fo9c&theme=github-compact&hide_border=true&area=true&area_color=40c463&line=3CB371&point=3CB371&hide_title=true&grid=false)](https://github.com/fo9c)
 
 
@@ -119,6 +123,7 @@ Here are some ideas to get you started:
 ----
 <p align="center">
   Counting of visitors to this page started from <b>July 4, 2024</b><br>
-  This <b>README</b> file is updated <b>EVERY 3 hours</b>!<br>
+  This <b>README</b> file is updated <b>EVERY 24 hours</b>!<br>
   Last refresh: Sunday, 7 July, 05:01 CEST
 </p>
+
