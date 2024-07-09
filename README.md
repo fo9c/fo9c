@@ -8,8 +8,7 @@
 
 <img align='right' src='https://github.com/fo9c/fo9c/blob/main/image/9.png' width='300'>
 
-#### 🛠Tech Stack & Tools I code with <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
-
+# 🛠Tech Stack & Tools I code with
 <p>
     <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
     <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
@@ -35,7 +34,7 @@
 
 <img align='right' src='https://user-images.githubuserc   ontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100'>
 
-# 👾 &nbsp;Technologies I'm interested in / Moving to<a href="https://www.fo9c.cn/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+# 👾 &nbsp;Technologies I'm interested in / Moving to
 <p>
     <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
     <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
@@ -55,7 +54,7 @@
     <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white">   
 </p>
 
-## 📈 My GitHub Stats
+# 📈 &nbsp;My GitHub Stats
 ![GitHub Stats](https://github-stats.ubrong.com/api?username=fo9c&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&hide=issues&custom_title=GitHub%20Stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=fo9c&theme=transparent&hide_border=%E5%81%87&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_height=170&card_width=347&hide_total_contributions=true)](https://git.io/streak-stats)
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fo9c&range=all_time)]()
@@ -76,8 +75,9 @@
                                               /____/
 ```
 
-## 📊 GitHub Activity Graph
+# 📊 &nbsp;GitHub Activity Graph
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fo9c&theme=github-compact&hide_border=true&area=true&area_color=40c463&line=3CB371&point=3CB371&hide_title=true&grid=false)](https://github.com/fo9c)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fo9c/fo9c/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fo9c/fo9c/output/github-contribution-grid-snake.svg">
