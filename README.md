@@ -1,4 +1,4 @@
-![b95fa67fb824f4be82ffa140af6962b3](https://github.com/fo9c/fo9c/assets/137996653/eac39328-b9cb-4bc1-a5e4-9dde0f4b5ef1)![waving](https://capsule-render.vercel.app/api?type=waving&height=150&fontAlign=80&text=†ジェルばんは†&fontAlignY=350&color=gradientheight=800)
+![b95fa67fb824f4be82ffa140af6962b3](https://github.com/fo9c/fo9c/assets/137996653/eac39328-b9cb-4bc1-a5e4-9dde0f4b5ef1)
 <h1 align="center">Hi There!!👋, I'm fo9c.</h1>
 <div align="center">
 
@@ -11,7 +11,7 @@
 
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=000&text=&height=30&fontSize=30&fontAlign=10)
 
-![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=000&height=30&fontSize=25&fontAlign=22&text=🛠%20Tech%20Stack%20Tools%20I%20code%20with)
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=000&height=39&fontSize=32&fontAlign=28&text=🛠%20Tech%20Stack%20Tools%20I%20code%20with)
 <p>
     <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
     <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
@@ -59,7 +59,7 @@
 
 ## 📈 My GitHub Stats
 ![GitHub Stats](https://github-stats.ubrong.com/api?username=fo9c&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&hide=issues&custom_title=GitHub%20Stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=fo9c&theme=transparent&hide_border=%E5%81%87&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_height=170&card_width=347&hide_total_contributions=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=fo9c&theme=transparent&hide_border=%E5%81%87&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_height=170&card_width=346&hide_total_contributions=true)](https://git.io/streak-stats)
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fo9c&range=all_time)]()
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fo9c&card_width=347&size_weight=0&count_weight=1&layout=compact&langs_count=6)
 [![trophy奖杯](https://github-profile-trophy.vercel.app/?username=fo9c&row=1&&margin-w=5&no-bg=true)](https://github-profile-trophy.vercel.app/?username=fo9c&row=2&column=3&no-bg=true)
