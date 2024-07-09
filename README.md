@@ -7,8 +7,9 @@
 
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=000&text=Tech%20Stack&height=30&fontSize=30)
 
-![Alt text](https://github.com/fo9c/fo9c/blob/main/image/wife.png) 
-<img style="width:300px;height:auto;">
+
+<img align='right' src='https://github.com/fo9c/fo9c/blob/main/image/32d5060b036975a4397612000eb08868.jpeg' width='100'>
+
 
 # 🛠 &nbsp;Tech Stack & Tools I code with
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
