@@ -5,14 +5,13 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Maitree&weight=600&size=30&duration=2000&pause=1800&color=518AFF&center=%E7%9C%9F&vCenter=%E7%9C%9F&repeat=true&random=%E5%81%87&width=805&center=true&duration=2000&lines=I%60m+a+back-end+engineer+from+China.;Enjoying+swapping+programming+knowledge+with+you!)](https://git.io/typing-svg)
 </div>
 
-![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=000&text=Tech%20Stack&height=30&fontSize=30)
 
 
-<img align='right' src='https://github.com/fo9c/fo9c/blob/main/image/9.png'>
+<img align='right' src='https://github.com/fo9c/fo9c/blob/main/image/9.png' width='300'>
 
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=000&text=&height=30&fontSize=30&fontAlign=10)
 
-# 🛠 &nbsp;Tech Stack & Tools I code with
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100'>
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=000&height=30&fontSize=25&fontAlign=22&text=🛠%20Tech%20Stack%20Tools%20I%20code%20with)
 <p>
     <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
     <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
@@ -29,16 +28,14 @@
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">    
     <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white">
     <img alt="GitHub Copilot" src="https://img.shields.io/badge/GitHub%20Copilot-2088FF?style=flat-square&logo=github-copilot&logoColor=white">
-    <img alt="Windows 11" src="https://img.shields.io/badge/Windows%2011-0078D6?style=flat-square&logo=windows10    &logoColor=white">
     <img alt="APIFox" src="https://img.shields.io/badge/APIfox-FCA120?style=flat-square&logo=apifox&logoColor=white"></img>
     <br>
     <img alt="macOS Sonoma" src="https://img.shields.io/badge/macOS Sonoma-gray?style=flat-square&logo=apple&logoColor=white" />
-    <img alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white">
-    <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white">   
     <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white">  
     <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white">
-    <img alt="Microsoft Edge" src="https://img.shields.io/badge/Microsoft%20Edge-0078D7?style=flat-square&logo=microsoft-edge&logoColor=white">
 </p>
+
+<img align='right' src='https://user-images.githubuserc   ontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100'>
 
 # 👾 &nbsp;Technologies I'm interested in / Moving to
 <p>
