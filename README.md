@@ -8,7 +8,6 @@
 
 <img align='right' src='https://github.com/fo9c/fo9c/blob/main/image/9.png' width='300'>
 
-![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=000&height=39&fontSize=32&fontAlign=27&text=🛠%20Tech%20Stack%20Tools%20I%20code%20with)
 # 🛠Tech Stack & Tools I code with<a href="https://www.fo9c.cn/">
 <p>
     <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
@@ -35,7 +34,6 @@
 
 <img align='right' src='https://user-images.githubuserc   ontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100'>
 
-![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=000&height=39&fontSize=32&fontAlign=40&text=👾%20Technologies%20I'm%20interested%20in%20/%20Moving%20to)
 # 👾 &nbsp;Technologies I'm interested in / Moving to<a href="https://www.fo9c.cn/">
 <p>
     <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
@@ -114,3 +112,6 @@
 <p align="center"><img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> 
 <img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/>
 <img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/></p>
+
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=000&height=39&fontSize=32&fontAlign=27&text=🛠%20Tech%20Stack%20Tools%20I%20code%20with)
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=000&height=39&fontSize=32&fontAlign=40&text=👾%20Technologies%20I'm%20interested%20in%20/%20Moving%20to)
