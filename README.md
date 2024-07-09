@@ -6,7 +6,7 @@
 </div>
 
 
-<img align='right' src='https://github.com/fo9c/fo9c/blob/main/image/9.png' width='300'>
+<img align='right' src='https://github.com/fo9c/fo9c/blob/main/image/wife2.png' width='180'>
 
 
 <img align='left' src='https://github.com/fo9c/fo9c/blob/main/image/Tech.png' height='30'>
