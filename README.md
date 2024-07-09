@@ -8,7 +8,7 @@
 
 <img align='right' src='https://github.com/fo9c/fo9c/blob/main/image/9.png' width='300'>
 
-# 🛠Tech Stack & Tools I code with<a href="https://www.fo9c.cn/">
+# 🛠Tech Stack & Tools I code with<a href="https://www.fo9c.cn/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 <p>
     <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
     <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
@@ -34,7 +34,7 @@
 
 <img align='right' src='https://user-images.githubuserc   ontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100'>
 
-# 👾 &nbsp;Technologies I'm interested in / Moving to<a href="https://www.fo9c.cn/">
+# 👾 &nbsp;Technologies I'm interested in / Moving to<a href="https://www.fo9c.cn/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 <p>
     <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
     <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
