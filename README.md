@@ -1,4 +1,4 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=150&fontAlign=80&text=†ジェルばんは†&fontAlignY=350&color=gradientheight=800)
+![b95fa67fb824f4be82ffa140af6962b3](https://github.com/fo9c/fo9c/assets/137996653/eac39328-b9cb-4bc1-a5e4-9dde0f4b5ef1)![waving](https://capsule-render.vercel.app/api?type=waving&height=150&fontAlign=80&text=†ジェルばんは†&fontAlignY=350&color=gradientheight=800)
 <h1 align="center">Hi There!!👋, I'm fo9c.</h1>
 <div align="center">
 
@@ -6,6 +6,8 @@
 </div>
 
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=000&text=Tech%20Stack&height=30&fontSize=30)
+
+![image](https://github.com/fo9c/fo9c/blob/main/image/wife.png)
 
 # 🛠 &nbsp;Tech Stack & Tools I code with
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
