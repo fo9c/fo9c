@@ -7,7 +7,8 @@
 
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=000&text=Tech%20Stack&height=30&fontSize=30)
 
-<img src="https://github.com/fo9c/fo9c/blob/main/image/wife.png" width='80'>
+![Alt text](https://github.com/fo9c/fo9c/blob/main/image/wife.png) 
+<img style="width:300px;height:auto;">
 
 # 🛠 &nbsp;Tech Stack & Tools I code with
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
