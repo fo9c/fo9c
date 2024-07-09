@@ -8,7 +8,7 @@
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=000&text=Tech%20Stack&height=30&fontSize=30)
 
 
-<img align='right' src='https://github.com/fo9c/fo9c/blob/main/image/9.png' width='100'>
+<img align='right' src='https://github.com/fo9c/fo9c/blob/main/image/9.png'>
 
 
 # 🛠 &nbsp;Tech Stack & Tools I code with
