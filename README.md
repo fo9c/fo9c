@@ -8,7 +8,7 @@
 
 <img align='right' src='https://github.com/fo9c/fo9c/blob/main/image/9.png' width='300'>
 
-### 🛠Tech Stack & Tools I code with <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+# 🛠Tech Stack & Tools I code with <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
 <p>
     <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
