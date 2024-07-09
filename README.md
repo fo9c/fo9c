@@ -8,6 +8,9 @@
 
 <img align='right' src='https://github.com/fo9c/fo9c/blob/main/image/9.png' width='300'>
 
+
+<img align='left' src='https://github.com/fo9c/fo9c/blob/main/image/Tech.png' height='30'>
+
 # 🛠Tech Stack & Tools I code with
 <p>
     <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
@@ -33,6 +36,8 @@
 </p>
 
 <img align='right' src='https://user-images.githubuserc   ontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100'>
+
+<img align='left' src='https://github.com/fo9c/fo9c/blob/main/image/interestedTech.png' height='30'>
 
 # 👾 &nbsp;Technologies I'm interested in / Moving to
 <p>
