@@ -1,6 +1,6 @@
 
-<img align='left' src='https://github.com/fo9c/fo9c/blob/main/image/GithubUwU.png' height='75'>
-
+<img align='left' src='https://github.com/fo9c/fo9c/blob/main/image/GithubUwU.png' height='95'>
+<br>
 <div align="left">
     <img align='left' src='https://github.com/fo9c/fo9c/blob/main/image/Tech.png' height='30'>
     <img align='right' src='https://github.com/fo9c/fo9c/blob/main/image/wife2%20(1).png' width='380'>
@@ -54,7 +54,10 @@
 </p>
 
 ----
-[![](https://count.getloli.com/get/@fo9c.github.readme?theme=rule34&width=420)](https://streak-stats.demolab.com/demo/)
+
+<img src="https://count.getloli.com/get/@fo9c.github.readme?theme=rule34" width="3500">
+
+[![](https://count.getloli.com/get/@fo9c.github.readme?theme=rule34&width=450)](https://streak-stats.demolab.com/demo/)
 </div>
 
 ----
