@@ -1,7 +1,9 @@
 
-<img align='left' src='https://github.com/fo9c/fo9c/blob/main/image/GithubUwU.png' width="300">
+<div align="left">
 
-<br>
+<img align='left' src='https://github.com/fo9c/fo9c/blob/main/image/GithubUwU.png' width="300">
+</div>
+
 <div align="left">
     <img align='left' src='https://github.com/fo9c/fo9c/blob/main/image/Tech.png' height='30'>
     <img align='right' src='https://github.com/fo9c/fo9c/blob/main/image/wife2%20(1).png' width='380'>
