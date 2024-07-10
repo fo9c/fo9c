@@ -3,7 +3,7 @@
     <img align='left' src='https://github.com/fo9c/fo9c/blob/main/image/GithubUwU.png' width="300">
     <img align='right' src='https://github.com/fo9c/fo9c/blob/main/image/wife2%20(1).png' width='368'>
     <br clear="left"/>
-    <img align='left' src='https://github.com/fo9c/fo9c/blob/main/image/titles/Tech%20StackTools%20I%20code%20with.png' height='30'>
+    <img align='left' src='https://github.com/fo9c/fo9c/blob/main/image/titles/Tech%20Stack%20%26%20Tools.png' height='30'>
 <p>
     <br>
     <br>    
@@ -30,7 +30,7 @@
 </p>
 
 --------------------------------------------------
-<img align='left' src='https://github.com/fo9c/fo9c/blob/main/image/titles/Tech%20StackTools%20I%20code%20with.png' height='30'>
+<img align='left' src='https://github.com/fo9c/fo9c/blob/main/image/titles/Technologies%20I'm%20Interested%20In.png' height='30'>
 <p>
     <br>
     <br>    
@@ -113,7 +113,7 @@
 <img alt="Forks" src="https://img.shields.io/github/forks/fo9c/fo9c?style=flat-square&labelColor=343b41"/></p>
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100'>
 
-![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=000&height=39&fontSize=32&fontAlign=30&text=🛠%20Tech%20Stack%20/%20Tools%20I%20Code%20With)
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=000&height=39&fontSize=32&fontAlign=30&text=🛠%20My%20Tech%20Stack%20/%20Tools)
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=000&height=39&fontSize=32&fontAlign=30&text=👾%20Technologies%20I'm%20Interested%20In)
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=000&height=39&fontSize=32&fontAlign=24&text=🌸%20Visitors%20Count%20Received)
 
