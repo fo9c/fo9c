@@ -1,5 +1,5 @@
 <div align="left">
-    <img align='left' src='https://github.com/fo9c/fo9c/blob/main/image/GithubUwU.png' width="300" tyle="margin-left: 20px;">
+    <img align='left' src='https://github.com/fo9c/fo9c/blob/main/image/GithubUwU.png' width="300" tyle="margin-left: 40px;">
     <img align='right' src='https://github.com/fo9c/fo9c/blob/main/image/wife2%20(1).png' width='380'>
     <br clear="left"/>
     <img align='left' src='https://github.com/fo9c/fo9c/blob/main/image/Tech.png' height='30'>
