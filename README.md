@@ -1,6 +1,6 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=150&fontAlign=80&text=†ジェルばんは†&fontAlignY=350&color=gradientheight=800)
 <div align="left">
-    <img align='right' src='https://github.com/fo9c/fo9c/blob/main/image/character/Blue%20Achieve-wife1-half.png' width='385'>
+    <img align='right' src='https://github.com/fo9c/fo9c/blob/main/image/character/Blue%20Achieve-wife1-half.png' width='368'>
     <br clear="left"/>
     <img align='left' src='https://github.com/fo9c/fo9c/blob/main/image/titles/Tech%20Stack%20%26%20Tools.png' height='30'>
 <p>
@@ -44,7 +44,7 @@
 ![GitHub Stats](https://github-stats.ubrong.com/api?username=fo9c&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&hide=issues&custom_title=GitHub%20Stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=fo9c&theme=transparent&hide_border=%E5%81%87&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_height=170&card_width=347&hide_total_contributions=true)](https://git.io/streak-stats)
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fo9c&range=all_time)]()
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fo9c&card_width=347&size_weight=0&count_weight=1&layout=compact&langs_count=6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fo9c&card_width=347&size_weight=0&count_weight=1&langs_count=6)
 [![trophy奖杯](https://github-profile-trophy.vercel.app/?username=fo9c&row=1&&margin-w=5&no-bg=true)](https://github-profile-trophy.vercel.app/?username=fo9c&row=2&column=3&no-bg=true)
 ```text
                                  ,,, /\_/\ ,,,
@@ -98,6 +98,7 @@
 <img alt="Stars" src="https://img.shields.io/github/stars/fo9c/fo9c?style=flat-square&labelColor=343b41"/>
 <img alt="Forks" src="https://img.shields.io/github/forks/fo9c/fo9c?style=flat-square&labelColor=343b41"/></p>
 
+<!--
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=000&height=39&fontSize=32&fontAlign=30&text=🛠%20My%20Tech%20Stack%20/%20Tools)
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=000&height=39&fontSize=32&fontAlign=30&text=👾%20Technologies%20I%20Interest%20In)
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=000&height=39&fontSize=32&fontAlign=24&text=🌸%20Visitors%20Count%20Received)
@@ -107,3 +108,4 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Maitree&weight=600&size=30&duration=2000&pause=1800&color=518AFF&center=%E7%9C%9F&vCenter=%E7%9C%9F&repeat=true&random=%E5%81%87&width=805&center=true&duration=2000&lines=I%60m+a+back-end+engineer+from+China.;Enjoying+swapping+programming+knowledge+with+you!)](https://git.io/typing-svg)
 </div>
 <img align='left' src='https://github.com/fo9c/fo9c/blob/main/image/GithubUwU.png' width="300"> 
+-->
