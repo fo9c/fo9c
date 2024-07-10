@@ -51,7 +51,6 @@
 <img align='right' src='https://github.com/fo9c/fo9c/blob/main/image/wife2%20(1).png' width='350'>
 </div>
 
-[![](https://count.getloli.com/get/@fo9c.github.readme?theme=rule34&width=200)](https://streak-stats.demolab.com/demo/)
 
 
 
@@ -127,3 +126,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Maitree&weight=600&size=30&duration=2000&pause=1800&color=518AFF&center=%E7%9C%9F&vCenter=%E7%9C%9F&repeat=true&random=%E5%81%87&width=805&center=true&duration=2000&lines=I%60m+a+back-end+engineer+from+China.;Enjoying+swapping+programming+knowledge+with+you!)](https://git.io/typing-svg)
 </div>
+
+
+[![](https://count.getloli.com/get/@fo9c.github.readme?theme=rule34&width=200)](https://streak-stats.demolab.com/demo/)
