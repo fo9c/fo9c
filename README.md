@@ -3,7 +3,7 @@
 
 <div align="left">
     <img align='left' src='https://github.com/fo9c/fo9c/blob/main/image/Tech.png' height='30'>
-    <img align='right' src='https://github.com/fo9c/fo9c/blob/main/image/wife2%20(1).png' width='340'>
+    <img align='right' src='https://github.com/fo9c/fo9c/blob/main/image/wife2%20(1).png' width='370'>
 <p>
     <br>    
     <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
