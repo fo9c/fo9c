@@ -1,7 +1,7 @@
 <div align="left">
     <img align='left' src='https://github.com/fo9c/fo9c/blob/main/image/GithubUwU.png' width="300" tyle="margin-left: 20px;">
-    <div align="left">
-    <img align='left' src='https://github.com/fo9c/fo9c/blob/main/image/GithubUwU.png' width="300" tyle="margin-left: 20px;"><br><img align='left' src='https://github.com/fo9c/fo9c/blob/main/image/Tech.png' height='30'>
+    <br clear="left"/>
+    <img align='left' src='https://github.com/fo9c/fo9c/blob/main/image/Tech.png' height='30'>
     <img src='https://github.com/fo9c/fo9c/blob/main/image/wife2%20(1).png' width='380'>
 <p>
     <br>
