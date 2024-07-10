@@ -55,9 +55,7 @@
 
 ----
 
-<img src="https://count.getloli.com/get/@fo9c.github.readme?theme=rule34" width="3500">
-
-[![](https://count.getloli.com/get/@fo9c.github.readme?theme=rule34&width=450)](https://streak-stats.demolab.com/demo/)
+<img src="https://count.getloli.com/get/@fo9c.github.readme?theme=rule34" width="370">
 </div>
 
 ----
