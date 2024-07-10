@@ -51,8 +51,7 @@
 </div>
 
 
-
-
+----
 
 # 📈 &nbsp;My GitHub Stats
 ![GitHub Stats](https://github-stats.ubrong.com/api?username=fo9c&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&hide=issues&custom_title=GitHub%20Stats)
@@ -83,24 +82,15 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fo9c/fo9c/output/github-contribution-grid-snake.svg">
   <img alt="GitHub Activity Graph" src="https://raw.githubusercontent.com/fo9c/fo9c/output/github-contribution-grid-snake.svg">
 </picture>
-
-##  🎮 &nbsp;Hobbies
-
 <div align="left">
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31mlhz3dotq6fvu5rjvpmovblqby&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 </div>
 
-![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=000&text=📫%20How%20to%20reach%20me%20&height=60&fontSize=45)
 <div align="center">
-    <p>
-        <a href="https://github.com/fo9c" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>&nbsp;&nbsp;
-        <a href="https://twitter.com/us_3a" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=X&logoColor=white" /></a>&nbsp;&nbsp;
-        <a href="https://gitee.com/fo9c_us" target="_blank"><img alt="Gitee" src="https://img.shields.io/badge/Gitee-d90013?&style=for-the-badge&logo=gitee&logoColor=white" /></a>&nbsp;&nbsp;
-        <a href="https://www.youtube.com/@fo9c"><img src="https://img.shields.io/badge/youtube-910b0c?&style=for-the-badge&logo=youtube&logoColor=white"></a>&nbsp;&nbsp;
-        <a href="https://steamcommunity.com/profiles/76561199036378412/" target="_blank"><img alt="Steam" src="https://img.shields.io/badge/Steam-1c384d.svg?&style=for-the-badge&logo=steam&logoColor=white" /></a>&nbsp;&nbsp;
-        <a href="mailto:fo9c@fo9c.cn"><img alt="Exmail" img src="https://img.shields.io/badge/Exmail-blue?&style=for-the-badge&logo=microsoftoutlook&logoColor=white"></a>&nbsp;&nbsp;
-    </p>
+
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=000&text=📫%20How%20to%20reach%20me%20&height=60&fontSize=45)
+    <p><a href="https://github.com/fo9c" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>&nbsp;&nbsp; <a href="https://twitter.com/us_3a" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=X&logoColor=white" /></a>&nbsp;&nbsp; <a href="https://gitee.com/fo9c_us" target="_blank"><img alt="Gitee" src="https://img.shields.io/badge/Gitee-d90013?&style=for-the-badge&logo=gitee&logoColor=white" /></a>&nbsp;&nbsp; <a href="https://www.youtube.com/@fo9c"><img src="https://img.shields.io/badge/youtube-910b0c?&style=for-the-badge&logo=youtube&logoColor=white"></a> &nbsp; <a href="https://steamcommunity.com/profiles/76561199036378412/" target="_blank"><img alt="Steam" src="https://img.shields.io/badge/Steam-1c384d.svg?&style=for-the-badge&logo=steam&logoColor=white" /></a>&nbsp;&nbsp; <a href="mailto:fo9c@fo9c.cn"><img alt="Exmail" img src="https://img.shields.io/badge/Exmail-blue?&style=for-the-badge&logo=microsoftoutlook&logoColor=white"></a>&nbsp;&nbsp;</p>
 </div>
 
 ----
@@ -111,9 +101,8 @@
 </p>
 
 <p align="center"><img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> 
-<img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/>
-<img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/></p>
-
+<img alt="Stars" src="https://img.shields.io/github/stars/fo9c/fo9c?style=flat-square&labelColor=343b41"/>
+<img alt="Forks" src="https://img.shields.io/github/forks/fo9c/fo9c?style=flat-square&labelColor=343b41"/></p>
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100'>
 
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=000&height=39&fontSize=32&fontAlign=27&text=🛠%20Tech%20Stack%20Tools%20I%20code%20with)
