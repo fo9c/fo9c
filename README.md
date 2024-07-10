@@ -1,5 +1,5 @@
 
-<img align='right' src='https://github.com/fo9c/fo9c/blob/main/image/wife2%20(1).png' width='300'>
+<img align='right' src='https://github.com/fo9c/fo9c/blob/main/image/wife2%20(1).png' width='550'>
 
 <p>
     <img align='left' src='https://github.com/fo9c/fo9c/blob/main/image/Tech.png' height='30'>
@@ -27,7 +27,6 @@
 </p>
 
 <p>
-    <img align='left' src='https://github.com/fo9c/fo9c/blob/main/image/interestedTech.png' height='30'>
 <br>
     <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
     <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
