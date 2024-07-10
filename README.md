@@ -1,11 +1,12 @@
+![waving](https://capsule-render.vercel.app/api?type=waving&height=150&fontAlign=80&text=†ジェルばんは†&fontAlignY=350&color=gradientheight=800)
 <div align="left">
-    <img align='left' src='https://github.com/fo9c/fo9c/blob/main/image/GithubUwU.png' width="300" style="margin-left: 140px;">
+    <img align='left' src='https://github.com/fo9c/fo9c/blob/main/image/GithubUwU.png' width="300">
     <img align='right' src='https://github.com/fo9c/fo9c/blob/main/image/wife2%20(1).png' width='380'>
     <br clear="left"/>
     <img align='left' src='https://github.com/fo9c/fo9c/blob/main/image/Tech.png' height='30'>
 <p>
     <br>
-    <br>     
+    <br>    
     <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
     <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
     <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
@@ -19,16 +20,17 @@
 </p>
 <p>
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">    
+    <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white">
     <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white">
-    <img alt="GitHub Copilot" src="https://img.shields.io/badge/GitHub%20Copilot-2088FF?style=flat-square&logo=github-copilot&logoColor=white">
-    <img alt="APIFox" src="https://img.shields.io/badge/APIfox-FCA120?style=flat-square&logo=apifox&logoColor=white"></img>
+    <img alt="APIFox" src="https://img.shields.io/badge/APIfox-FCA120?style=flat-square&logo=apifox&logoColor=white">
     <br>
     <img alt="macOS Sonoma" src="https://img.shields.io/badge/macOS Sonoma-gray?style=flat-square&logo=apple&logoColor=white" />
     <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white">  
-    <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white">
+    <img alt="GitHub Copilot" src="https://img.shields.io/badge/GitHub%20Copilot-2088FF?style=flat-square&logo=github-copilot&logoColor=white">
 </p>
 
-----
+--------------------------------------------------
+
 <img align='left' src='https://github.com/fo9c/fo9c/blob/main/image/techmoving.png' height='30'>
 <p>
     <br>
@@ -38,26 +40,26 @@
     <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
     <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
     <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-    <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
     <br>
+    <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
     <img alt="css3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
     <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
     <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
     <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-%2335495e.svg?style=flat-square&logo=vue.js&logoColor=%234FC08D" />
+    <br>
     <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
     <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c&logoColor=white" /> 
-    <br>
     <img alt="GO" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white" />
     <img alt="GitLab" src="https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=white">
     <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white">   
 </p>
 
-----
-
+--------------------------------------------------
+<img align='left' src='https://github.com/fo9c/fo9c/blob/main/image/titles/Visitors%20Count%20I%20have%20received.png' height='30'>
 <img src="https://count.getloli.com/get/@fo9c.github.readme?theme=rule34" width="370">
 </div>
 
-----
+--------------------------------------------------
 
 # 📈 &nbsp;My GitHub Stats
 ![GitHub Stats](https://github-stats.ubrong.com/api?username=fo9c&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&hide=issues&custom_title=GitHub%20Stats)
@@ -114,8 +116,8 @@
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=000&height=39&fontSize=32&fontAlign=27&text=🛠%20Tech%20Stack%20Tools%20I%20code%20with)
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=000&height=39&fontSize=32&fontAlign=40&text=👾%20Technologies%20I'm%20Moving%20to)
 
-![waving](https://capsule-render.vercel.app/api?type=waving&height=150&fontAlign=80&text=†ジェルばんは†&fontAlignY=350&color=gradientheight=800)
-<h1 align="center">Hi There!!👋, I'm fo9c.</h1>
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=000&height=39&fontSize=32&fontAlign=29&text=🌸%20Visitors%20Count%20I%20have%20received)
+
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Maitree&weight=600&size=30&duration=2000&pause=1800&color=518AFF&center=%E7%9C%9F&vCenter=%E7%9C%9F&repeat=true&random=%E5%81%87&width=805&center=true&duration=2000&lines=I%60m+a+back-end+engineer+from+China.;Enjoying+swapping+programming+knowledge+with+you!)](https://git.io/typing-svg)
