@@ -56,6 +56,9 @@
 
 --------------------------------------------------
 <img align='left' src='https://github.com/fo9c/fo9c/blob/main/image/titles/Visitors%20Count%20I%20have%20received.png' height='30'>
+<br clear="left"/>
+<br>
+<br>
 <img src="https://count.getloli.com/get/@fo9c.github.readme?theme=rule34" width="370">
 </div>
 
