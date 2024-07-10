@@ -50,12 +50,12 @@
     <img alt="GitLab" src="https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=white">
     <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white">   
 </p>
-----
 
+----
 [![](https://count.getloli.com/get/@fo9c.github.readme?theme=rule34&width=340)](https://streak-stats.demolab.com/demo/)
 </div>
-
 ----
+
 ## 🌐 &nbsp;GitHub 统计
 
 
