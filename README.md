@@ -31,7 +31,7 @@
 
 --------------------------------------------------
 
-<img align='left' src='https://github.com/fo9c/fo9c/blob/main/image/titles/Technologies%20I'm%20Interested%20In.png' height='30'>
+<img align='left' src='https://github.com/fo9c/fo9c/blob/main/image/titles/Technologies%20I%20interested%20ln.png' height='30'>
 <p>
     <br>
     <br>    
@@ -55,7 +55,6 @@
 </p>
 
 --------------------------------------------------
-
 <img align='left' src='https://github.com/fo9c/fo9c/blob/main/image/titles/Visitors%20Count%20Received.png' height='30'>
 <br clear="left"/>
 <br>
@@ -116,7 +115,7 @@
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100'>
 
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=000&height=39&fontSize=32&fontAlign=30&text=🛠%20My%20Tech%20Stack%20/%20Tools)
-![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=000&height=39&fontSize=32&fontAlign=30&text=👾%20Technologies%20I'm%20Interested%20In)
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=000&height=39&fontSize=32&fontAlign=30&text=👾%20Technologies%20I%20Interest%20In)
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=000&height=39&fontSize=32&fontAlign=24&text=🌸%20Visitors%20Count%20Received)
 
 <div align="center">
