@@ -1,5 +1,6 @@
 
-<img align='left' src='https://github.com/fo9c/fo9c/blob/main/image/GithubUwU.png' height='95'>
+<img align='left' src='https://github.com/fo9c/fo9c/blob/main/image/GithubUwU.png' width="300">
+
 <br>
 <div align="left">
     <img align='left' src='https://github.com/fo9c/fo9c/blob/main/image/Tech.png' height='30'>
