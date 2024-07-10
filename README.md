@@ -1,5 +1,5 @@
 
-<img align='right' src='https://github.com/fo9c/fo9c/blob/main/image/wife2%20(1).png' width='460'>
+<img align='right' src='https://github.com/fo9c/fo9c/blob/main/image/wife2%20(1).png' width='430'>
 
 <p>
     <img align='left' src='https://github.com/fo9c/fo9c/blob/main/image/Tech.png' height='30'>
