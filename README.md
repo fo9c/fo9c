@@ -17,8 +17,6 @@
     <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white">
 </p>
 <p>
-    <br>
-    <br>
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">    
     <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white">
     <img alt="GitHub Copilot" src="https://img.shields.io/badge/GitHub%20Copilot-2088FF?style=flat-square&logo=github-copilot&logoColor=white">
@@ -31,8 +29,9 @@
 
 ----
 <img align='left' src='https://github.com/fo9c/fo9c/blob/main/image/techmoving.png' height='30'>
-<br>
 <p>
+    <br>
+    <br>    
     <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
     <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
     <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
@@ -51,8 +50,9 @@
     <img alt="GitLab" src="https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=white">
     <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white">   
 </p>
+----
 
-[![](https://count.getloli.com/get/@fo9c.github.readme?theme=rule34&width=200)](https://streak-stats.demolab.com/demo/)
+[![](https://count.getloli.com/get/@fo9c.github.readme?theme=rule34&width=340)](https://streak-stats.demolab.com/demo/)
 </div>
 
 ----
