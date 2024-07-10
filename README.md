@@ -1,15 +1,10 @@
 <div align="left">
     <img align='left' src='https://github.com/fo9c/fo9c/blob/main/image/GithubUwU.png' width="300" tyle="margin-left: 20px;">
-    <br clear="left"/>
     <img align='left' src='https://github.com/fo9c/fo9c/blob/main/image/Tech.png' height='30'>
-    <img src='https://github.com/fo9c/fo9c/blob/main/image/wife2%20(1).png' width='380'>
+    <img align='right' src='https://github.com/fo9c/fo9c/blob/main/image/wife2%20(1).png' width='380'>
 <p>
     <br>
-    <br> <img align='left' src='https://github.com/fo9c/fo9c/blob/main/image/Tech.png' height='30'>
-    <img src='https://github.com/fo9c/fo9c/blob/main/image/wife2%20(1).png' width='380'>
-<p>
-    <br>
-    <br>    
+    <br>     
     <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
     <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
     <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
