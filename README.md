@@ -1,5 +1,7 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=150&fontAlign=80&text=†ジェルばんは†&fontAlignY=350&color=gradientheight=800)
 <div align="left">
+    <img align='right' src='https://github.com/fo9c/fo9c/blob/main/image/wife2%20(1).png' width='368'>
+    <br clear="left"/>
     <img align='left' src='https://github.com/fo9c/fo9c/blob/main/image/titles/Tech%20Stack%20%26%20Tools.png' height='30'>
 <p>
     <br>
@@ -104,5 +106,4 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Maitree&weight=600&size=30&duration=2000&pause=1800&color=518AFF&center=%E7%9C%9F&vCenter=%E7%9C%9F&repeat=true&random=%E5%81%87&width=805&center=true&duration=2000&lines=I%60m+a+back-end+engineer+from+China.;Enjoying+swapping+programming+knowledge+with+you!)](https://git.io/typing-svg)
 </div>
-<img align='left' src='https://github.com/fo9c/fo9c/blob/main/image/GithubUwU.png' width="300"> <img align='right' src='https://github.com/fo9c/fo9c/blob/main/image/wife2%20(1).png' width='368'>
-    <br clear="left"/>
+<img align='left' src='https://github.com/fo9c/fo9c/blob/main/image/GithubUwU.png' width="300"> 
