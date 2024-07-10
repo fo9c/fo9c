@@ -3,7 +3,7 @@
     <img align='left' src='https://github.com/fo9c/fo9c/blob/main/image/GithubUwU.png' width="300">
     <img align='right' src='https://github.com/fo9c/fo9c/blob/main/image/wife2%20(1).png' width='380'>
     <br clear="left"/>
-    <img align='left' src='https://github.com/fo9c/fo9c/blob/main/image/Tech.png' height='30'>
+    <img align='left' src='https://github.com/fo9c/fo9c/blob/main/image/titles/Tech%20StackTools%20I%20code%20with.png' height='30'>
 <p>
     <br>
     <br>    
@@ -30,8 +30,7 @@
 </p>
 
 --------------------------------------------------
-
-<img align='left' src='https://github.com/fo9c/fo9c/blob/main/image/techmoving.png' height='30'>
+<img align='left' src='https://github.com/fo9c/fo9c/blob/main/image/titles/Tech%20StackTools%20I%20code%20with.png' height='30'>
 <p>
     <br>
     <br>    
@@ -55,15 +54,13 @@
 </p>
 
 --------------------------------------------------
-<img align='left' src='https://github.com/fo9c/fo9c/blob/main/image/titles/Visitors%20Count%20I%20have%20received.png' height='30'>
+<img align='left' src='https://github.com/fo9c/fo9c/blob/main/image/titles/Visitors%20Count%20Received.png' height='30'>
 <br clear="left"/>
-<br>
 <br>
 <img src="https://count.getloli.com/get/@fo9c.github.readme?theme=rule34" width="370">
 </div>
 
 --------------------------------------------------
-
 # 📈 &nbsp;My GitHub Stats
 ![GitHub Stats](https://github-stats.ubrong.com/api?username=fo9c&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&hide=issues&custom_title=GitHub%20Stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=fo9c&theme=transparent&hide_border=%E5%81%87&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_height=170&card_width=347&hide_total_contributions=true)](https://git.io/streak-stats)
@@ -116,10 +113,9 @@
 <img alt="Forks" src="https://img.shields.io/github/forks/fo9c/fo9c?style=flat-square&labelColor=343b41"/></p>
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100'>
 
-![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=000&height=39&fontSize=32&fontAlign=27&text=🛠%20Tech%20Stack%20Tools%20I%20code%20with)
-![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=000&height=39&fontSize=32&fontAlign=40&text=👾%20Technologies%20I'm%20Moving%20to)
-
-![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=000&height=39&fontSize=32&fontAlign=29&text=🌸%20Visitors%20Count%20I%20have%20received)
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=000&height=39&fontSize=32&fontAlign=30&text=🛠%20Tech%20Stack%20/%20Tools%20I%20Code%20With)
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=000&height=39&fontSize=32&fontAlign=30&text=👾%20Technologies%20I'm%20Interested%20In)
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=000&height=39&fontSize=32&fontAlign=24&text=🌸%20Visitors%20Count%20Received)
 
 <div align="center">
 
