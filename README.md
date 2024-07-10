@@ -1,9 +1,9 @@
 
 
 
+
 <div align="left">
     <img align='left' src='https://github.com/fo9c/fo9c/blob/main/image/Tech.png' height='30'>
-    <img align='right' src='https://github.com/fo9c/fo9c/blob/main/image/wife2%20(1).png' width='370'>
 <p>
     <br>    
     <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
@@ -16,8 +16,7 @@
     <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
     <img alt="Python" src="https://img.shields.io/badge/-Python-blue?style=flat-square&logo=Python&logoColor=white" />
     <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white">
-</p>
-<p>
+    <br>
     <br>
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">    
     <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white">
@@ -49,13 +48,11 @@
     <img alt="GitLab" src="https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=white">
     <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white">   
 </p>
-
+<img align='right' src='https://github.com/fo9c/fo9c/blob/main/image/wife2%20(1).png' width='380'>
 </div>
 
-<div align="left">
+[![](https://count.getloli.com/get/@fo9c.github.readme?theme=rule34&width=200)](https://streak-stats.demolab.com/demo/)
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31mlhz3dotq6fvu5rjvpmovblqby&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
-</div>
 
 
 
@@ -91,8 +88,10 @@
 
 ##  🎮 &nbsp;Hobbies
 
+<div align="left">
 
-[![](https://count.getloli.com/get/@fo9c.github.readme?theme=rule34&width=200)](https://streak-stats.demolab.com/demo/)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31mlhz3dotq6fvu5rjvpmovblqby&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+</div>
 
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=000&text=📫%20How%20to%20reach%20me%20&height=60&fontSize=45)
 <div align="center">
@@ -124,6 +123,10 @@
 
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=150&fontAlign=80&text=†ジェルばんは†&fontAlignY=350&color=gradientheight=800)
 <h1 align="center">Hi There!!👋, I'm fo9c.</h1>
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Maitree&weight=600&size=30&duration=2000&pause=1800&color=518AFF&center=%E7%9C%9F&vCenter=%E7%9C%9F&repeat=true&random=%E5%81%87&width=805&center=true&duration=2000&lines=I%60m+a+back-end+engineer+from+China.;Enjoying+swapping+programming+knowledge+with+you!)](https://git.io/typing-svg)
+
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Maitree&weight=600&size=30&duration=2000&pause=1800&color=518AFF&center=%E7%9C%9F&vCenter=%E7%9C%9F&repeat=true&random=%E5%81%87&width=805&center=true&duration=2000&lines=I%60m+a+back-end+engineer+from+China.;Enjoying+swapping+programming+knowledge+with+you!)](https://git.io/typing-svg)
