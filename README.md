@@ -1,7 +1,7 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=150&fontAlign=80&text=†ジェルばんは†&fontAlignY=350&color=gradientheight=800)
 <div align="left">
     <img align='left' src='https://github.com/fo9c/fo9c/blob/main/image/GithubUwU.png' width="300">
-    <img align='right' src='https://github.com/fo9c/fo9c/blob/main/image/wife2%20(1).png' width='3680'>
+    <img align='right' src='https://github.com/fo9c/fo9c/blob/main/image/wife2%20(1).png' width='368'>
     <br clear="left"/>
     <img align='left' src='https://github.com/fo9c/fo9c/blob/main/image/titles/Tech%20StackTools%20I%20code%20with.png' height='30'>
 <p>
