@@ -76,6 +76,7 @@
 
 <!-- ------------------------------------------------------------------------------------------------- -->
 
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=000&text=%F0%9F%8E%B5%20My%20Favorite%20Song&height=60&fontSize=45" />
 <div align="center">
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31mlhz3dotq6fvu5rjvpmovblqby&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
