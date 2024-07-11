@@ -1,3 +1,8 @@
+<!-- If you like what you see, simply replace my username with yours in your own profile -->
+<!-- Any questions or suggestions, feel free to open an issue on the repository -->
+<!-- Do not forget to leave a star or fork the repository if you like -->
+<!-- Follow me on GitHub if you want to see more projects like this -->
+
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=150&fontAlign=80&text=†ジェルばんは†&fontAlignY=350&color=gradientheight=800)
 <div align="left">
     <img align='right' src='https://github.com/fo9c/fo9c/blob/main/image/character/Blue%20Achieve-wife1-half.png' width='387'>
