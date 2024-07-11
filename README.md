@@ -1,6 +1,6 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=150&fontAlign=80&text=†ジェルばんは†&fontAlignY=350&color=gradientheight=800)
 <div align="left">
-    <img align='right' src='https://github.com/fo9c/fo9c/blob/main/image/character/Blue%20Achieve-wife1-half.png' width='386'>
+    <img align='right' src='https://github.com/fo9c/fo9c/blob/main/image/character/Blue%20Achieve-wife1-half.png' width='387'>
     <br clear="left"/>
     <img align='left' src='https://github.com/fo9c/fo9c/blob/main/image/titles/Tech%20Stack%20%26%20Tools.png' height='30'>
 <p>
