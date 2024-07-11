@@ -1,6 +1,6 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=150&fontAlign=80&text=†ジェルばんは†&fontAlignY=350&color=gradientheight=800)
 <div align="left">
-    <img align='right' src='https://github.com/fo9c/fo9c/blob/main/image/character/Blue%20Achieve-wife1-half.png' width='387'>
+    <img align='right' src='https://github.com/fo9c/fo9c/blob/main/image/character/Blue%20Achieve-wife1-half.png' width='385'>
     <br clear="left"/>
     <img align='left' src='https://github.com/fo9c/fo9c/blob/main/image/titles/Tech%20Stack%20%26%20Tools.png' height='30'>
 <p>
@@ -33,7 +33,8 @@
 <img align='left' src='https://github.com/fo9c/fo9c/blob/main/image/titles/Visitors%20Count%20Received.png' height='30'>
 <br clear="left"/>
 <br>
-<img src="https://count.getloli.com/get/@fo9c.github.readme?theme=rule34" width="370">
+<img src="https://count.getloli.com/get/@fo9c.github.readme?theme=rule34" width="300">
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100'>
 </div>
 
 ----
@@ -45,8 +46,9 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=fo9c&theme=transparent&hide_border=%E5%81%87&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_height=170&card_width=347&hide_total_contributions=true)](https://git.io/streak-stats)
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fo9c&range=all_time)]()
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fo9c&card_width=347&size_weight=0&count_weight=1&langs_count=6)
-[![trophy奖杯](https://github-profile-trophy.vercel.app/?username=fo9c&row=1&&margin-w=5&no-bg=true)](https://github-profile-trophy.vercel.app/?username=fo9c&row=2&column=3&no-bg=true)<!-- Eazy Mode ![](https://github-trophies.vercel.app/?username=yourusername) -->
-![trophy奖杯](https://github-trophies.vercel.app/?username=fo9c&row=1&margin-w=5&no-bg=true&column=8)
+[![trophy奖杯](https://github-trophies.vercel.app/?username=fo9c&row=1&margin-w=5&no-bg=true&column=8)](https://github-profile-trophy.vercel.app/?username=fo9c)
+
+
 ```text
                                  ,,, /\_/\ ,,,
                                   \\=('o')=//
@@ -61,6 +63,7 @@
           /_/  /_/\__/_/\__,_/\___/     /_.___/\__, /      /_/  \____//____/\___/
                                               /____/
 ```
+
 <!-- ------------------------------------------------------------------------------------------------- -->
 
 # 📊 &nbsp;GitHub Activity Graph
@@ -75,14 +78,17 @@
 <!-- ------------------------------------------------------------------------------------------------- -->
 
 <div align="left">
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100'>
+
+</div>
+<div align="right">
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31mlhz3dotq6fvu5rjvpmovblqby&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 </div>
 
-<div align="center">
+
 
 <!-- ------------------------------------------------------------------------------------------------- -->
+<div align="center">
 
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=000&text=📫%20How%20to%20reach%20me%20&height=60&fontSize=45)
     <p><a href="https://github.com/fo9c" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>&nbsp;&nbsp; <a href="https://twitter.com/us_3a" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=X&logoColor=white" /></a>&nbsp;&nbsp; <a href="https://gitee.com/fo9c_us" target="_blank"><img alt="Gitee" src="https://img.shields.io/badge/Gitee-d90013?&style=for-the-badge&logo=gitee&logoColor=white" /></a>&nbsp;&nbsp; <a href="https://www.youtube.com/@fo9c"><img src="https://img.shields.io/badge/youtube-910b0c?&style=for-the-badge&logo=youtube&logoColor=white"></a> &nbsp; <a href="https://steamcommunity.com/profiles/76561199036378412/" target="_blank"><img alt="Steam" src="https://img.shields.io/badge/Steam-1c384d.svg?&style=for-the-badge&logo=steam&logoColor=white" /></a>&nbsp;&nbsp; <a href="mailto:fo9c@fo9c.cn"><img alt="Exmail" img src="https://img.shields.io/badge/Exmail-blue?&style=for-the-badge&logo=microsoftoutlook&logoColor=white"></a>&nbsp;&nbsp;</p>
@@ -96,8 +102,12 @@
 </p>
 
 <p align="center"><img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> 
+<img alt="Followers" src="https://img.shields.io/github/followers/fo9c?style=flat-square&labelColor=343b41"/>
 <img alt="Stars" src="https://img.shields.io/github/stars/fo9c/fo9c?style=flat-square&labelColor=343b41"/>
 <img alt="Forks" src="https://img.shields.io/github/forks/fo9c/fo9c?style=flat-square&labelColor=343b41"/></p>
+
+
+<!-- ------------------------------------------------------------------------------------------------- -->
 
 <!--
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=000&height=39&fontSize=32&fontAlign=30&text=🛠%20My%20Tech%20Stack%20/%20Tools)
