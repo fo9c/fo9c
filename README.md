@@ -1,6 +1,6 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=150&fontAlign=80&text=†ジェルばんは†&fontAlignY=350&color=gradientheight=800)
 <div align="left">
-    <img align='right' src='https://github.com/fo9c/fo9c/blob/main/image/character/Blue%20Achieve-wife1-half.png' width='385'>
+    <img align='right' src='https://github.com/fo9c/fo9c/blob/main/image/character/Blue%20Achieve-wife1-half.png' width='386'>
     <br clear="left"/>
     <img align='left' src='https://github.com/fo9c/fo9c/blob/main/image/titles/Tech%20Stack%20%26%20Tools.png' height='30'>
 <p>
@@ -76,11 +76,7 @@
 
 <!-- ------------------------------------------------------------------------------------------------- -->
 
-<div align="left">
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100'>
-
-</div>
-<div align="right">
+<div align="center">
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31mlhz3dotq6fvu5rjvpmovblqby&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 </div>
