@@ -33,8 +33,7 @@
 <img align='left' src='https://github.com/fo9c/fo9c/blob/main/image/titles/Visitors%20Count%20Received.png' height='30'>
 <br clear="left"/>
 <br>
-<img src="https://count.getloli.com/get/@fo9c.github.readme?theme=rule34" width="300">
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100'>
+<img src="https://count.getloli.com/get/@fo9c.github.readme?theme=rule34" width="370">
 </div>
 
 ----
@@ -78,6 +77,7 @@
 <!-- ------------------------------------------------------------------------------------------------- -->
 
 <div align="left">
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100'>
 
 </div>
 <div align="right">
