@@ -45,7 +45,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=fo9c&theme=transparent&hide_border=%E5%81%87&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_height=170&card_width=347&hide_total_contributions=true)](https://git.io/streak-stats)
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fo9c&range=all_time)]()
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fo9c&card_width=347&size_weight=0&count_weight=1&langs_count=6)
-![trophy奖杯](https://github-trophies.vercel.app/?username=fo9c&row=1&column=-1&no-bg=true)
+![trophy奖杯](https://github-trophies.vercel.app/?username=fo9c&row=1&column=5&no-bg=true&margin-w=15)
 ```text
                                  ,,, /\_/\ ,,,
                                   \\=('o')=//
