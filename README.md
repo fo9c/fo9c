@@ -46,6 +46,7 @@
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fo9c&range=all_time)]()
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fo9c&card_width=347&size_weight=0&count_weight=1&langs_count=6)
 [![trophy奖杯](https://github-profile-trophy.vercel.app/?username=fo9c&row=1&&margin-w=5&no-bg=true)](https://github-profile-trophy.vercel.app/?username=fo9c&row=2&column=3&no-bg=true)<!-- Eazy Mode ![](https://github-trophies.vercel.app/?username=yourusername) -->
+![trophy奖杯](https://github-trophies.vercel.app/?username=fo9c&row=1&margin-w=5&no-bg=true&column=8)
 ```text
                                  ,,, /\_/\ ,,,
                                   \\=('o')=//
