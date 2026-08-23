@@ -83,7 +83,9 @@
 <p align="center">
   Counting of visitors to this page started from <b>July 4, 2024</b><br>
   This <b>README</b> file is updated <b>EVERY 24 hours</b>!<br>
-    Last refresh: Wednesday, 11 July, 14:00 CEST
+<!-- LAST_REFRESH_START -->
+    Last refresh: pending first automated refresh
+<!-- LAST_REFRESH_END -->
 </p>
 
 <p align="center"><img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> 

@@ -1,0 +1,42 @@
+name: update README timestamp
+
+on:
+  schedule:
+    - cron: "17 0 * * *"
+      timezone: "Asia/Shanghai"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-readme-timestamp
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out the profile repository
+        uses: actions/checkout@v6
+
+      - name: Update the last refresh time
+        shell: bash
+        run: |
+          timestamp="$(TZ=Asia/Shanghai date '+%Y-%m-%d %H:%M CST')"
+          sed -i "/<!-- LAST_REFRESH_START -->/,/<!-- LAST_REFRESH_END -->/c\\<!-- LAST_REFRESH_START -->\\n    Last refresh: ${timestamp}\\n<!-- LAST_REFRESH_END -->" README.md
+
+      - name: Commit the refreshed timestamp
+        shell: bash
+        run: |
+          if git diff --quiet -- README.md; then
+            echo "README timestamp is already current."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore: refresh profile timestamp [skip actions]"
+          git push
