@@ -88,7 +88,7 @@
 <!-- LAST_REFRESH_END -->
 </p>
 
-<p align="center"><img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> 
+<p align="center"><img alt="README timestamp workflow" src="https://github.com/fo9c3a/fo9c3a/actions/workflows/UpdateReadmeTimestamp.yml/badge.svg" /> 
 <img alt="Followers" src="https://img.shields.io/github/followers/fo9c3a?style=flat-square&labelColor=343b41"/>
 <img alt="Stars" src="https://img.shields.io/github/stars/fo9c3a/fo9c3a?style=flat-square&labelColor=343b41"/>
 <img alt="Forks" src="https://img.shields.io/github/forks/fo9c3a/fo9c3a?style=flat-square&labelColor=343b41"/></p>
