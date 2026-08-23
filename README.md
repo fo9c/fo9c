@@ -45,15 +45,6 @@
 
 <!-- ------------------------------------------------------------------------------------------------- -->
 
-# 📈 &nbsp;My GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fo9c3a&show_icons=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=fo9c3a&theme=transparent&hide_border=%E5%81%87&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_height=170&card_width=375&hide_total_contributions=true)](https://git.io/streak-stats)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fo9c&range=all_time)]()
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fo9c3a&card_width=347&size_weight=0&count_weight=1&langs_count=6)
-[![trophy奖杯](https://github-trophies.vercel.app/?username=fo9c3a&row=1&margin-w=5&no-bg=true&column=8)](https://github-profile-trophy.vercel.app/?username=fo9c3a)
-
-
-
 ```text
                              ,,, /\_/\ ,,,                                              ⣿⢟⣽⣿⣿⣿⣿⣫⡾⣵⣿⣿⣿⠃⠄⠄⠘⢿⣿⣾⣿⣿⣿⢿⣿
                               \\=('o')=//                                               ⢫⣿⣿⣿⣿⡿⣳⣿⣱⣿⣿⣿⡋⠄⠄⠄⠄⠄⠛⠛⠋⠁⠄⠄⣿
@@ -80,17 +71,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fo9c3a/fo9c3a/output/github-contribution-grid-snake.svg">
   <img alt="GitHub Activity Graph" src="https://raw.githubusercontent.com/fo9c3a/fo9c3a/output/github-contribution-grid-snake.svg">
 </picture>
-
-<!-- ------------------------------------------------------------------------------------------------- -->
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=000&text=%F0%9F%8E%B5%20My%20Favorite%20Song&height=60&fontSize=45" />
-<div align="center">
-    
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=316cyurfv6hcx3rv5l2kgjmljqdy&cover_image=true&theme=default&show_offline=false&background_color=8d8e91&interchange=false&bar_color_cover=true&bar_color=75cae6)](https://github.com/kittinan/spotify-github-profile)
-
-</div>
-
-
 
 <!-- ------------------------------------------------------------------------------------------------- -->
 <div align="center">
