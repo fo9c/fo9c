@@ -40,7 +40,7 @@
 <br>
 <img src="https://count.getloli.com/get/@fo9c3a.github.readme?theme=rule34" width="370">
 <br clear="both"/>
-<img src="https://raw.githubusercontent.com/fo9c3a/fo9c3a/main/image/divider.svg" width="100%" height="1" alt="">
+<img src="https://raw.githubusercontent.com/fo9c3a/fo9c3a/main/image/divider.svg" width="100%" height="20" alt="">
 </div>
 
 <!-- ------------------------------------------------------------------------------------------------- -->
