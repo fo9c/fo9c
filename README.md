@@ -64,7 +64,7 @@
 <!-- ------------------------------------------------------------------------------------------------- -->
 
 # 📊 &nbsp;GitHub Activity Graph
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fo9c3a&theme=github-compact&hide_border=true&area=true&area_color=40c463&line=3CB371&point=3CB371&hide_title=true&grid=false)](https://github.com/fo9c3a)
+[![GitHub Activity Graph](./assets/activity-graph.svg)](https://github.com/fo9c3a)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fo9c3a/fo9c3a/output/github-contribution-grid-snake-dark.svg">

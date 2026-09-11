@@ -1,0 +1,69 @@
+name: Generate activity graph
+
+on:
+  schedule:
+    - cron: "37 1 * * *"
+      timezone: "Asia/Shanghai"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/GenerateActivityGraph.yml"
+      - "scripts/generate_activity_graph.py"
+      - "tests/test_generate_activity_graph.py"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: generate-profile-activity-graph
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Check out the profile repository
+        uses: actions/checkout@v6
+
+      - name: Run generator tests
+        run: python3 -m unittest discover -s tests -v
+
+      - name: Generate the activity graph
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 scripts/generate_activity_graph.py --output assets/activity-graph.svg
+
+      - name: Validate and publish the SVG
+        shell: bash
+        run: |
+          python3 - <<'PY'
+          import xml.etree.ElementTree as ET
+          ET.parse("assets/activity-graph.svg")
+          print("SVG validation passed")
+          PY
+
+          if [[ -z "$(git status --porcelain -- assets/activity-graph.svg)" ]]; then
+            echo "Activity graph is already current."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/activity-graph.svg
+          git commit -m "chore: refresh profile activity graph [skip actions]"
+
+          for attempt in 1 2 3; do
+            git pull --rebase origin main
+            if git push origin HEAD:main; then
+              exit 0
+            fi
+            echo "Push attempt ${attempt} failed; retrying."
+            sleep $((attempt * 2))
+          done
+
+          echo "Unable to publish the refreshed graph after three attempts."
+          exit 1
