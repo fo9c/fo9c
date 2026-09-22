@@ -1,8 +1,14 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:171129,50:5b21b6,100:ec4899&height=180&section=header&text=FO9C%20%7C%20Anime%20Tech%20Lab&fontSize=34&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Build%20small%20worlds%20with%20code%20%E2%9C%A8&descSize=15&descAlignY=58" alt="FO9C anime tech header">
+</p>
+
 <img align="right" width="270" alt="Anime character" src="./image/character/Blue%20Achieve-wife1-half.png">
 
 # †ジェルばんは† 👋
 
 ### AI Agent Builder · Backend Engineer · Anime Fan
+
+> `SYSTEM ONLINE` · `BUILD MODE: ON` · `ANIME ENERGY: ∞`
 
 I build practical AI workflows, backend systems, and automation tools that turn ideas into working products.
 
@@ -17,6 +23,37 @@ I build practical AI workflows, backend systems, and automation tools that turn 
 </p>
 
 <br clear="right">
+
+---
+
+## ✨ Anime Tech Dashboard
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=fo9c3a&show_icons=true&hide_border=true&bg_color=00000000&title_color=ec4899&icon_color=8b5cf6&text_color=64748b&rank_icon=github" alt="GitHub statistics">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fo9c3a&layout=compact&hide_border=true&bg_color=00000000&title_color=ec4899&text_color=64748b" alt="Top languages">
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=fo9c3a&theme=tokyonight&hide_border=true&background=00000000&ring=ec4899&fire=f97316&currStreakLabel=8b5cf6" alt="GitHub contribution streak">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=fo9c3a&theme=discord&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub profile trophies">
+</p>
+
+<details>
+  <summary>🌙 Open the character sheet</summary>
+
+  <br>
+
+  | Attribute | Current state |
+  | --- | --- |
+  | Class | AI Agent Builder / Backend Engineer |
+  | Main quests | AI video · automation · full-stack products |
+  | Preferred weapons | Java · Python · TypeScript · Docker |
+  | Passive skill | Turns messy ideas into runnable systems |
+  | Mood | Curious, practical, slightly obsessed with anime |
+</details>
 
 ---
 
