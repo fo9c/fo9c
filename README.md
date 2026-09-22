@@ -1,5 +1,5 @@
 <p align="center"><sub>01 · Twilight Wave</sub><br>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:171129,50:5b21b6,100:ec4899&height=160&section=header&text=FO9C%20%7C%20Anime%20Tech%20Lab&fontSize=32&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Build%20small%20worlds%20with%20code%20%E2%9C%A8&descSize=14&descAlignY=58" alt="Twilight Wave banner">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:171129,50:5b21b6,100:ec4899&height=160&section=header&text=Anime%20Tech%20Lab&fontSize=32&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Build%20small%20worlds%20with%20code%20%E2%9C%A8&descSize=14&descAlignY=58" alt="Twilight Wave banner">
 </p>
 
 <p align="center"><sub>02 · Neon Venom</sub><br>
@@ -7,7 +7,7 @@
 </p>
 
 <p align="center"><sub>03 · Sakura Slice</sub><br>
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:fff1f2,45:fbcfe8,100:c084fc&height=145&section=header&text=%E6%A1%9C%E3%81%AE%20CODE%20%E3%83%BB%20FO9C&fontSize=30&fontColor=581c87&fontAlignY=42&desc=Dream%20it.%20Ship%20it.%20Repeat.%20%E2%9C%A8&descSize=13&descAlignY=66" alt="Sakura Slice banner">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:fff1f2,45:fbcfe8,100:c084fc&height=145&section=header&text=%E6%A1%9C%E3%81%AE%20CODE&fontSize=30&fontColor=581c87&fontAlignY=42&desc=Dream%20it.%20Ship%20it.%20Repeat.%20%E2%9C%A8&descSize=13&descAlignY=66" alt="Sakura Slice banner">
 </p>
 
 <p align="center"><sub>04 · Gold Gradient</sub><br>
@@ -24,14 +24,13 @@
 
 I build practical AI workflows, backend systems, and automation tools that turn ideas into working products.
 
-🤖 Exploring **AI agents, computer use, and reliable automation**<br>
-⚙️ Working with **Java, Spring Boot, Python, and modern web stacks**<br>
-🎬 Interested in **AI video workflows and creative developer tools**<br>
-🌸 Always learning, building, and enjoying anime along the way
+🧪 Designing **reliable AI workflows and useful agents**<br>
+🧰 Building **backend systems that are made to ship**<br>
+🎬 Exploring **creative tools, video, and computer use**<br>
+🌸 Learning, tinkering, and enjoying anime along the way
 
 <p>
   <a href="https://github.com/fo9c3a"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"></a>
-  <img alt="Profile" src="https://img.shields.io/badge/Profile-fo9c3a-7C3AED?style=flat-square&logo=githubsponsors&logoColor=white">
 </p>
 
 <p align="left">
@@ -52,20 +51,6 @@ I build practical AI workflows, backend systems, and automation tools that turn 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=fo9c3a&theme=discord&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub profile trophies">
 </p>
-
-<details>
-  <summary>🌙 Open the character sheet</summary>
-
-  <br>
-
-  | Attribute | Current state |
-  | --- | --- |
-  | Class | AI Agent Builder / Backend Engineer |
-  | Main quests | AI video · automation · full-stack products |
-  | Preferred weapons | Java · Python · TypeScript · Docker |
-  | Passive skill | Turns messy ideas into runnable systems |
-  | Mood | Curious, practical, slightly obsessed with anime |
-</details>
 
 ---
 
