@@ -63,7 +63,6 @@
 
 <!-- ------------------------------------------------------------------------------------------------- -->
 
-# 📊 &nbsp;GitHub Activity Graph
 [![GitHub Activity Graph](./assets/activity-graph.svg)](https://github.com/fo9c)
 
 <picture>
@@ -72,14 +71,16 @@
   <img alt="GitHub Activity Graph" src="https://raw.githubusercontent.com/fo9c/fo9c/output/github-contribution-grid-snake.svg">
 </picture>
 
-<!-- ------------------------------------------------------------------------------------------------- -->
-<div align="center">
-
-![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=000&text=📫%20How%20to%20reach%20me%20&height=60&fontSize=45)
-    <p><a href="https://github.com/fo9c" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>&nbsp;&nbsp; <a href="https://twitter.com/us_3a" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=X&logoColor=white" /></a>&nbsp;&nbsp; <a href="https://gitee.com/fo9c_us" target="_blank"><img alt="Gitee" src="https://img.shields.io/badge/Gitee-d90013?&style=for-the-badge&logo=gitee&logoColor=white" /></a>&nbsp;&nbsp; <a href="https://www.youtube.com/@fo9c"><img src="https://img.shields.io/badge/youtube-910b0c?&style=for-the-badge&logo=youtube&logoColor=white"></a> &nbsp; <a href="https://steamcommunity.com/profiles/76561199036378412/" target="_blank"><img alt="Steam" src="https://img.shields.io/badge/Steam-1c384d.svg?&style=for-the-badge&logo=steam&logoColor=white" /></a>&nbsp;&nbsp; <a href="mailto:fo9c@fo9c.cn"><img alt="Exmail" img src="https://img.shields.io/badge/Exmail-blue?&style=for-the-badge&logo=microsoftoutlook&logoColor=white"></a>&nbsp;&nbsp;</p>
-</div>
-
 ----
+<p align="center">
+  <a href="https://github.com/fo9c"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://twitter.com/us_3a"><img alt="X / Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white"></a>
+  <a href="https://gitee.com/fo9c_us"><img alt="Gitee" src="https://img.shields.io/badge/Gitee-d90013?style=for-the-badge&logo=gitee&logoColor=white"></a>
+  <a href="https://www.youtube.com/@fo9c"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-910b0c?style=for-the-badge&logo=youtube&logoColor=white"></a>
+  <a href="https://steamcommunity.com/profiles/76561199036378412/"><img alt="Steam" src="https://img.shields.io/badge/Steam-1c384d.svg?style=for-the-badge&logo=steam&logoColor=white"></a>
+  <a href="mailto:chengfo9c@163.com"><img alt="Email" src="https://img.shields.io/badge/Email-1D9BF0?style=for-the-badge&logo=maildotru&logoColor=white"></a>
+</p>
+
 <p align="center">
   <em>“嘘はとびきりの愛なんだよ”</em><br>
 <!-- LAST_REFRESH_START -->
