@@ -108,3 +108,13 @@ I build practical AI workflows, backend systems, and automation tools that turn 
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white">
   <img alt="APIFox" src="https://img.shields.io/badge/APIFox-F59E0B?style=flat-square&logo=apifox&logoColor=white">
 </p>
+
+<p align="center">
+  <em>“嘘はとびきりの愛なんだよ”</em>
+</p>
+
+<p align="center">
+<!-- LAST_REFRESH_START -->
+  Last refresh: 2026-09-11 03:06 CST
+<!-- LAST_REFRESH_END -->
+</p>
