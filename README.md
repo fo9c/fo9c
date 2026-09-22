@@ -1,10 +1,22 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:171129,50:5b21b6,100:ec4899&height=180&section=header&text=FO9C%20%7C%20Anime%20Tech%20Lab&fontSize=34&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Build%20small%20worlds%20with%20code%20%E2%9C%A8&descSize=15&descAlignY=58" alt="FO9C anime tech header">
+<p align="center"><sub>01 · Twilight Wave</sub><br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:171129,50:5b21b6,100:ec4899&height=160&section=header&text=FO9C%20%7C%20Anime%20Tech%20Lab&fontSize=32&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Build%20small%20worlds%20with%20code%20%E2%9C%A8&descSize=14&descAlignY=58" alt="Twilight Wave banner">
+</p>
+
+<p align="center"><sub>02 · Neon Venom</sub><br>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f172a,50:0e7490,100:22d3ee&height=145&section=header&text=NEON%20OTAKU%20ENGINE&fontSize=28&fontColor=f0fdff&fontAlignY=40&desc=AI%20%E2%80%A2%20CODE%20%E2%80%A2%20ANIME&descSize=13&descAlignY=64" alt="Neon Venom banner">
+</p>
+
+<p align="center"><sub>03 · Sakura Slice</sub><br>
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:fff1f2,45:fbcfe8,100:c084fc&height=145&section=header&text=%E6%A1%9C%E3%81%AE%20CODE%20%E3%83%BB%20FO9C&fontSize=30&fontColor=581c87&fontAlignY=42&desc=Dream%20it.%20Ship%20it.%20Repeat.%20%E2%9C%A8&descSize=13&descAlignY=66" alt="Sakura Slice banner">
+</p>
+
+<p align="center"><sub>04 · Gold Gradient</sub><br>
+  <img src="./assets/banner-gold.svg" alt="Gold gradient banner">
 </p>
 
 <img align="right" width="270" alt="Anime character" src="./image/character/Blue%20Achieve-wife1-half.png">
 
-# †ジェルばんは† 👋
+# †ジェルばんは† (｡•̀ᴗ-)✧
 
 ### AI Agent Builder · Backend Engineer · Anime Fan
 
@@ -22,9 +34,9 @@ I build practical AI workflows, backend systems, and automation tools that turn 
   <img alt="Profile" src="https://img.shields.io/badge/Profile-fo9c3a-7C3AED?style=flat-square&logo=githubsponsors&logoColor=white">
 </p>
 
-<br clear="right">
-
----
+<p align="left">
+  <img src="./image/divider.svg" width="64%" alt="">
+</p>
 
 ## ✨ Anime Tech Dashboard
 
@@ -110,61 +122,4 @@ I build practical AI workflows, backend systems, and automation tools that turn 
   <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ_IDEA-252A34?style=flat-square&logo=intellijidea&logoColor=white">
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white">
   <img alt="APIFox" src="https://img.shields.io/badge/APIFox-F59E0B?style=flat-square&logo=apifox&logoColor=white">
-</p>
-
----
-
-## 🚀 Selected Projects
-
-- **[Yingyan AI Video Studio](https://github.com/fo9c3a/yingyan-ai-video-studio)** — Local-first AI video workflows, media analysis, and generation tooling.
-- **[Liyu Academy Platform](https://github.com/fo9c3a/liyu-academy-platform)** — A full-stack academy platform built with React and Spring Boot.
-
----
-
-## 📊 GitHub Activity
-
-[![GitHub Activity Graph](./assets/activity-graph.svg)](https://github.com/fo9c3a)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fo9c3a/fo9c3a/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fo9c3a/fo9c3a/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/fo9c3a/fo9c3a/output/github-contribution-grid-snake.svg">
-</picture>
-
----
-
-## 🌸 Visitors
-
-<img alt="Visitor counter" src="https://count.getloli.com/get/@fo9c3a.github.readme?theme=rule34" width="315">
-
-<sub>Visitor counter started on July 4, 2024.</sub>
-
----
-
-## 📡 How to Reach Me
-
-<p>
-  <a href="https://github.com/fo9c3a"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-252A34?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://twitter.com/us_3a"><img alt="X" src="https://img.shields.io/badge/X-252A34?style=for-the-badge&logo=x&logoColor=white"></a>
-  <a href="https://gitee.com/fo9c_us"><img alt="Gitee" src="https://img.shields.io/badge/Gitee-C71D23?style=for-the-badge&logo=gitee&logoColor=white"></a>
-  <a href="https://www.youtube.com/@fo9c"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-BD2026?style=for-the-badge&logo=youtube&logoColor=white"></a>
-  <a href="https://steamcommunity.com/profiles/76561199036378412/"><img alt="Steam" src="https://img.shields.io/badge/Steam-1B375A?style=for-the-badge&logo=steam&logoColor=white"></a>
-  <a href="mailto:fo9c@fo9c.cn"><img alt="Email" src="https://img.shields.io/badge/Email-2563EB?style=for-the-badge&logo=microsoftoutlook&logoColor=white"></a>
-</p>
-
-<p align="center">
-  <em>“Stay curious. Keep building. Enjoy the route.”</em> 🌙
-</p>
-
-<p align="center">
-<!-- LAST_REFRESH_START -->
-  Last refresh: 2026-09-11 03:06 CST
-<!-- LAST_REFRESH_END -->
-</p>
-
-<p align="center">
-  <img alt="README timestamp workflow" src="https://github.com/fo9c3a/fo9c3a/actions/workflows/UpdateReadmeTimestamp.yml/badge.svg">
-  <img alt="Followers" src="https://img.shields.io/github/followers/fo9c3a?style=flat-square&labelColor=343b41">
-  <img alt="Stars" src="https://img.shields.io/github/stars/fo9c3a/fo9c3a?style=flat-square&labelColor=343b41">
-  <img alt="Forks" src="https://img.shields.io/github/forks/fo9c3a/fo9c3a?style=flat-square&labelColor=343b41">
 </p>
