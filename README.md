@@ -81,8 +81,6 @@
 
 ----
 <p align="center">
-  Counting of visitors to this page started from <b>July 4, 2024</b><br>
-  This <b>README</b> file is updated every 24 hours!<br>
   <em>“嘘はとびきりの愛なんだよ”</em><br>
 <!-- LAST_REFRESH_START -->
     Last refresh: 2026-09-22 04:27 CST
