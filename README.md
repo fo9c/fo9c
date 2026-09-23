@@ -9,7 +9,7 @@
     <br clear="left"/>
 <h1>†ジェルばんは† (｡•̀ᴗ-)✧</h1>
 <h3>AI Agent Builder · Backend Engineer · Anime Fan</h3>
-<blockquote><code>SYSTEM ONLINE</code> · <code>BUILD MODE: ON</code> · <code>ANIME ENERGY: ∞</code></blockquote>
+<blockquote><code>SYSTEM ONLINE</code> · <code>BUILD MODE: ON</code> · <code>ANIME ENERGY: INFINITE</code></blockquote>
 <p>I build practical AI agents and LLM-powered workflows that connect models, APIs, and repeatable tasks. I also develop backend services with Java and Spring, plus automation tools that help move ideas from prototype to reliable, usable products. I enjoy exploring creative software and finding clear, practical ways to make everyday work easier.</p>
 <p>
   <img alt="AI Agents" src="https://img.shields.io/badge/AI_Agents-252A34?style=flat-square&logo=probot&logoColor=white"> <img alt="LLM API" src="https://img.shields.io/badge/LLM_API-6D4AFF?style=flat-square&logo=json&logoColor=white"> <img alt="Codex" src="https://img.shields.io/badge/Codex-252A34?style=flat-square&logo=gnometerminal&logoColor=white"> <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white">
@@ -17,12 +17,7 @@
   <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D"> <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white"> <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"> <img alt="GitHub" src="https://img.shields.io/badge/GitHub-252A34?style=flat-square&logo=github&logoColor=white"> <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"> <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=1B1B1B"> <img alt="macOS" src="https://img.shields.io/badge/macOS-252A34?style=flat-square&logo=apple&logoColor=white">
 </p>
 
-<img align='left' src='https://github.com/fo9c/fo9c/blob/main/image/titles/Visitors%20Count%20Received.png' height='30'>
-<br clear="left"/>
-<br>
-<img src="https://count.getloli.com/get/@fo9c.github.readme?theme=rule34" width="370">
 <br clear="both"/>
-<img src="https://raw.githubusercontent.com/fo9c/fo9c/main/image/divider.svg?v=4" width="100%" height="20" alt="">
 </div>
 
 <!-- ------------------------------------------------------------------------------------------------- -->
