@@ -65,7 +65,7 @@
 
 <p align="center">
   <a href="https://streak-stats.demolab.com/demo/">
-    <img src="https://streak-stats.demolab.com?user=fo9c&hide_border=true" alt="GitHub Streak Stats" width="72%">
+    <img src="https://streak-stats.demolab.com?user=fo9c&theme=dark&hide_border=true&background=transparent&ring=39D353&fire=58A6FF&currStreakNum=F0F6FC&sideNums=F0F6FC&currStreakLabel=39D353&sideLabels=8B949E&dates=8B949E" alt="GitHub Streak Stats" width="72%">
   </a>
 </p>
 
