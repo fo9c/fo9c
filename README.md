@@ -66,12 +66,7 @@
 <hr>
 
 <p align="center">
-  <a href="https://github-stats-extended.vercel.app/frontend/docs/cards/top-languages/">
-    <img align="middle" src="https://github-stats-extended.vercel.app/api/top-langs/?username=fo9c&layout=compact" alt="Top Languages" height="200">
-  </a>
-  <a href="https://streak-stats.demolab.com/demo/">
-    <img align="middle" src="https://streak-stats.demolab.com?user=fo9c" alt="GitHub Streak Stats" height="200">
-  </a>
+  <a href="https://github-stats-extended.vercel.app/frontend/docs/cards/top-languages/"><img align="middle" src="https://github-stats-extended.vercel.app/api/top-langs/?username=fo9c&layout=compact" alt="Top Languages" width="49%"></a><a href="https://streak-stats.demolab.com/demo/"><img align="middle" src="https://streak-stats.demolab.com?user=fo9c" alt="GitHub Streak Stats" width="49%"></a>
 </p>
 
 <hr>
