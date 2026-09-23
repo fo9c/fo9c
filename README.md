@@ -7,31 +7,16 @@
 <div align="left">
     <img align='right' src='https://github.com/fo9c/fo9c/blob/main/image/character/Blue%20Achieve-wife1-half.png' width='387'>
     <br clear="left"/>
-    <img align='left' src='https://github.com/fo9c/fo9c/blob/main/image/titles/Tech%20Stack%20%26%20Tools.png' height='30'>
 <p>
-    <br>
-    <br>
-    <img alt="AI Agents" src="https://img.shields.io/badge/AI%20Agents-111827?style=flat-square&logo=probot&logoColor=white" /> <img alt="LLM API" src="https://img.shields.io/badge/LLM%20API-7C3AED?style=flat-square&logo=json&logoColor=white" /> <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img alt="Codex" src="https://img.shields.io/badge/Codex-111827?style=flat-square&logo=gnometerminal&logoColor=white" />
-    <br>
-    <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" /> <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" /> <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" /> <img alt="MyBatis" src="https://img.shields.io/badge/MyBatis-1F092C?style=flat-square&logo=openjdk&logoColor=white" />
-    <br>
-    <img alt="Maven" src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" /> <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-</p>
-<p>
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /> <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" /> <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" /> <img alt="APIFox" src="https://img.shields.io/badge/APIFox-FCA120?style=flat-square&logo=apifox&logoColor=white" />
-    <br>
-    <img alt="Windows 11" src="https://img.shields.io/badge/Windows%2011-0078D4?style=flat-square&logo=windows11&logoColor=white" /> <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" /> <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white" /> <img alt="GitHub Copilot" src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white" />
-</p>
-
-----
-
-<img align='left' src='https://github.com/fo9c/fo9c/blob/main/image/titles/Technologies%20I%20interested%20ln.png' height='30'>
-<p>
-    <br>
-    <br>
-    <img alt="Linux" height="18" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" /> <img alt="Docker" height="18" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img alt="Redis" height="18" src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" /> <img alt="MongoDB" height="18" src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /> <img alt="HTML5" height="18" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img alt="CSS3" height="18" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white" /> <img alt="Sass" height="18" src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-    <br>
-    <img alt="TypeScript" height="18" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img alt="React" height="18" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img alt="Node.js" height="18" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /> <img alt="Vue.js" height="18" src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D" /> <img alt="C++" height="18" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" /> <img alt="Go" height="18" src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" /> <img alt="Rust" height="18" src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
+  <br><br>
+  <strong>🧪 Designing reliable AI workflows and useful agents</strong><br>
+  <img alt="AI Agents" src="https://img.shields.io/badge/AI%20Agents-111827?style=flat&logo=probot&logoColor=white" /> <img alt="LLM API" src="https://img.shields.io/badge/LLM%20API-7C3AED?style=flat&logo=json&logoColor=white" /> <img alt="Codex" src="https://img.shields.io/badge/Codex-22272E?style=flat&logo=gnometerminal&logoColor=white" /> <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white" /><br><br>
+  <strong>🧰 Building backend systems that are made to ship</strong><br>
+  <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white" /> <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white" /> <img alt="MyBatis" src="https://img.shields.io/badge/MyBatis-1F092C?style=flat&logo=mybatis&logoColor=white" /> <img alt="Maven" src="https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white" /> <img alt="Cassandra" src="https://img.shields.io/badge/Cassandra-1287B1?style=flat&logo=apachecassandra&logoColor=white" /> <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" /> <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" /><br><br>
+  <strong>🎬 Exploring creative tools, video, and computer use</strong><br>
+  <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D" /> <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white" /><br><br>
+  <strong>🌸 Learning, tinkering, and enjoying anime along the way</strong><br>
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" /> <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /> <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" /> <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" /> <img alt="macOS" src="https://img.shields.io/badge/macOS-111111?style=flat&logo=apple&logoColor=white" /> <img alt="Windows 11" src="https://img.shields.io/badge/Windows%2011-0078D4?style=flat&logo=windows11&logoColor=white" />
 </p>
 
 ----
