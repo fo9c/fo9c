@@ -33,9 +33,39 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
 
-      # push the content of <build_dir> to a branch
-      # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
-      - name: push github-contribution-grid-snake.svg to the output branch
+      # Publish generated SVGs. Retry transient GitHub-side 5xx failures.
+      - name: publish SVGs to the output branch (attempt 1)
+        id: publish_attempt_1
+        continue-on-error: true
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Wait before publish retry 1
+        if: steps.publish_attempt_1.outcome == 'failure'
+        run: sleep 5
+
+      - name: publish SVGs to the output branch (attempt 2)
+        id: publish_attempt_2
+        if: steps.publish_attempt_1.outcome == 'failure'
+        continue-on-error: true
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Wait before publish retry 2
+        if: steps.publish_attempt_1.outcome == 'failure' && steps.publish_attempt_2.outcome == 'failure'
+        run: sleep 15
+
+      - name: publish SVGs to the output branch (attempt 3)
+        id: publish_attempt_3
+        if: steps.publish_attempt_1.outcome == 'failure' && steps.publish_attempt_2.outcome == 'failure'
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
