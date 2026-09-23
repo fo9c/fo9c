@@ -65,7 +65,11 @@
 
 <p align="center">
   <a href="https://streak-stats.demolab.com/demo/">
-    <img src="https://streak-stats.demolab.com?user=fo9c&theme=dark&hide_border=true&background=transparent&ring=39D353&fire=58A6FF&currStreakNum=F0F6FC&sideNums=F0F6FC&currStreakLabel=39D353&sideLabels=8B949E&dates=8B949E" alt="GitHub Streak Stats" width="72%">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=fo9c&theme=dark&hide_border=true&background=transparent&ring=39D353&fire=58A6FF&currStreakNum=F0F6FC&sideNums=F0F6FC&currStreakLabel=39D353&sideLabels=8B949E&dates=8B949E">
+      <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=fo9c&theme=default&hide_border=true&background=transparent&ring=2DA44E&fire=0969DA&currStreakNum=24292F&sideNums=24292F&currStreakLabel=2DA44E&sideLabels=57606A&dates=57606A">
+      <img src="https://streak-stats.demolab.com?user=fo9c&theme=default&hide_border=true&background=transparent&ring=2DA44E&fire=0969DA&currStreakNum=24292F&sideNums=24292F&currStreakLabel=2DA44E&sideLabels=57606A&dates=57606A" alt="GitHub Streak Stats" width="72%">
+    </picture>
   </a>
 </p>
 
