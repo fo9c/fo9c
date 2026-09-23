@@ -63,6 +63,20 @@
 
 <!-- ------------------------------------------------------------------------------------------------- -->
 
+<hr>
+
+<p align="center">
+  <a href="https://github-stats-extended.vercel.app/frontend/docs/cards/top-languages/">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=fo9c&layout=compact" alt="Top Languages" height="200">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://streak-stats.demolab.com/demo/">
+    <img src="https://streak-stats.demolab.com?user=fo9c" alt="GitHub Streak Stats" height="200">
+  </a>
+</p>
+
+<hr>
+
 [![GitHub Activity Graph](./assets/activity-graph.svg)](https://github.com/fo9c)
 
 <picture>
