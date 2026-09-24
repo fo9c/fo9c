@@ -12,6 +12,7 @@
   <img src="https://raw.githubusercontent.com/fo9c/fo9c/main/image/title.svg?v=11" width="50%" height="64" alt="†ジェルばんは† (｡•̀ᴗ-)✧">
 </picture>
 <h3>AI Agent Builder · Backend Engineer · Anime Fan</h3>
+<blockquote><code>SYSTEM ONLINE</code> · <code>BUILD MODE: ON</code> · <code>ANIME ENERGY: INFINITE</code></blockquote>
 <p>I build practical AI agents and LLM-powered workflows that connect models, APIs, and repeatable tasks. I also develop backend services with Java and Spring, plus automation tools that help move ideas from prototype to reliable, usable products. I enjoy exploring creative software and finding clear, practical ways to make everyday work easier.</p>
 <p>
   <img alt="AI Agents" src="https://img.shields.io/badge/AI_Agents-252A34?style=flat-square&logo=probot&logoColor=white"> <img alt="LLM API" src="https://img.shields.io/badge/LLM_API-6D4AFF?style=flat-square&logo=json&logoColor=white"> <img alt="Codex" src="https://img.shields.io/badge/Codex-252A34?style=flat-square&logo=gnometerminal&logoColor=white"> <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white">
@@ -23,8 +24,6 @@
 <div><img src="https://count.getloli.com/get/@fo9c.github.readme?theme=rule34" width="370" alt="Visitor count"></div>
 <img src="https://raw.githubusercontent.com/fo9c/fo9c/main/image/divider.svg?v=7" width="100%" height="1" align="top" alt="">
 </div>
-
-<img src="https://raw.githubusercontent.com/fo9c/fo9c/main/image/music-player.svg?v=4" width="100%" alt="Custom now playing music player">
 
 <!-- ------------------------------------------------------------------------------------------------- -->
 
