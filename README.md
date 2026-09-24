@@ -4,10 +4,10 @@
 <!-- Follow me on GitHub if you want to see more projects like this -->
 
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=150&fontAlign=80&text=†ジェルばんは†&fontAlignY=350&color=gradientheight=800)
-<div align="left">
-    <img align='right' src='https://raw.githubusercontent.com/fo9c/fo9c/main/image/character/Blue%20Achieve-wife1-half.png' width='387' alt='Profile character'>
-    <br clear="left"/>
-<img src="https://raw.githubusercontent.com/fo9c/fo9c/main/image/title.svg?v=3" width="50%" height="64" alt="†ジェルばんは† (｡•̀ᴗ-)✧">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td valign="top">
+<img src="https://raw.githubusercontent.com/fo9c/fo9c/main/image/title.svg?v=4" width="100%" height="64" alt="†ジェルばんは† (｡•̀ᴗ-)✧">
 <h3>AI Agent Builder · Backend Engineer · Anime Fan</h3>
 <blockquote><code>SYSTEM ONLINE</code> · <code>BUILD MODE: ON</code> · <code>ANIME ENERGY: INFINITE</code></blockquote>
 <p>I build practical AI agents and LLM-powered workflows that connect models, APIs, and repeatable tasks. I also develop backend services with Java and Spring, plus automation tools that help move ideas from prototype to reliable, usable products. I enjoy exploring creative software and finding clear, practical ways to make everyday work easier.</p>
@@ -16,11 +16,16 @@
   <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"> <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"> <img alt="MyBatis" src="https://img.shields.io/badge/MyBatis-3B1F47?style=flat-square&logo=databricks&logoColor=white"> <img alt="Maven" src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white"> <img alt="Cassandra" src="https://img.shields.io/badge/Cassandra-1287B1?style=flat-square&logo=apachecassandra&logoColor=white"> <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=nodedotjs&logoColor=white"> <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
 <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D"> <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white"> <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"> <img alt="GitHub" src="https://img.shields.io/badge/GitHub-252A34?style=flat-square&logo=github&logoColor=white"> <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"> <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=1B1B1B"> <img alt="macOS" src="https://img.shields.io/badge/macOS-252A34?style=flat-square&logo=apple&logoColor=white">
 </p>
+</td>
+<td width="387" valign="top" align="right">
+<img src="https://raw.githubusercontent.com/fo9c/fo9c/main/image/character/Blue%20Achieve-wife1-half.png" width="387" alt="Profile character">
+</td>
+</tr>
+</table>
 
 <h3>🌸 Visitors Count Received</h3>
 <div><img src="https://count.getloli.com/get/@fo9c.github.readme?theme=rule34" width="370" alt="Visitor count"></div>
 <img src="https://raw.githubusercontent.com/fo9c/fo9c/main/image/divider.svg?v=7" width="100%" height="1" align="top" alt="">
-</div>
 
 <!-- ------------------------------------------------------------------------------------------------- -->
 
