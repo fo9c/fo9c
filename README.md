@@ -19,7 +19,7 @@
 
 <h3>🌸 Visitors Count Received</h3>
 <div><img src="https://count.getloli.com/get/@fo9c.github.readme?theme=rule34" width="370" alt="Visitor count"></div>
-<img src="https://raw.githubusercontent.com/fo9c/fo9c/main/image/divider.svg?v=6" width="100%" height="4" alt="" style="display:block">
+<img src="https://raw.githubusercontent.com/fo9c/fo9c/main/image/divider.svg?v=7" width="100%" height="1" align="top" alt="">
 </div>
 
 <!-- ------------------------------------------------------------------------------------------------- -->
