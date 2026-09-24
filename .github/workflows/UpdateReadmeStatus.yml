@@ -1,0 +1,66 @@
+name: Update README status
+
+on:
+  schedule:
+    - cron: "0 * * * *"
+      timezone: "Asia/Shanghai"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-readme-status
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out the profile repository
+        uses: actions/checkout@v6
+
+      - name: Select the time-based status badge
+        shell: bash
+        run: |
+          hour="$(TZ=Asia/Shanghai date +%H)"
+          if (( 10 <= 10#$hour && 10#$hour < 22 )); then
+            badge='https://raw.githubusercontent.com/fo9c/fo9c/main/image/status-online.svg?v=1'
+            alt='Status: ONLINE'
+          else
+            badge='https://raw.githubusercontent.com/fo9c/fo9c/main/image/status-off.svg?v=1'
+            alt='Status: OFF'
+          fi
+
+          python3 - "$badge" "$alt" <<'PY'
+          from pathlib import Path
+          import sys
+
+          path = Path("README.md")
+          text = path.read_text(encoding="utf-8")
+          start = "<!-- STATUS_START -->"
+          end = "<!-- STATUS_END -->"
+          replacement = f'{start}<img src="{sys.argv[1]}" height="24" align="absmiddle" alt="{sys.argv[2]}">{end}'
+          before, marker, after = text.partition(start)
+          if not marker:
+              raise SystemExit("STATUS_START marker not found")
+          _, marker_end, tail = after.partition(end)
+          if not marker_end:
+              raise SystemExit("STATUS_END marker not found")
+          path.write_text(before + replacement + tail, encoding="utf-8")
+          PY
+
+      - name: Commit the status change
+        shell: bash
+        run: |
+          if git diff --quiet -- README.md; then
+            echo "README status is already current."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore: update profile status [skip actions]"
+          git push
