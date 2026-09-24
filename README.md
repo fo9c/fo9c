@@ -24,7 +24,7 @@
 <img src="https://raw.githubusercontent.com/fo9c/fo9c/main/image/divider.svg?v=7" width="100%" height="1" align="top" alt="">
 </div>
 
-<img src="https://raw.githubusercontent.com/fo9c/fo9c/main/image/music-player.svg?v=3" width="100%" alt="Custom now playing music player">
+<img src="https://raw.githubusercontent.com/fo9c/fo9c/main/image/music-player.svg?v=4" width="100%" alt="Custom now playing music player">
 
 <!-- ------------------------------------------------------------------------------------------------- -->
 
