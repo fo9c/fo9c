@@ -45,10 +45,9 @@
   </g>
 
   <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">
-    <text x="143" y="25" fill="#8B949E" font-size="12" letter-spacing="1.2">NOW PLAYING · CUSTOM SESSION</text>
+    <text x="143" y="25" fill="#8B949E" font-size="12" letter-spacing="1.2">NOW PLAYING · CUSTOM SESSION · SYSTEM ONLINE · BUILD MODE: ON</text>
     <text x="143" y="56" fill="url(#textGradient)" font-size="22" font-weight="600">BUILDING THE FUTURE</text>
     <text x="143" y="80" fill="#C9D1D9" fill-opacity="0.9" font-size="16">FO9C · AI AGENT MIX</text>
-    <text x="143" y="101" fill="#8B949E" font-family="monospace" font-size="11">SYSTEM ONLINE  ·  BUILD MODE: ON</text>
   </g>
 
   <g aria-label="Animated equalizer">
@@ -186,4 +185,3 @@
     </rect>
   </g>
 </svg>
-
