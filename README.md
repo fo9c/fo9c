@@ -6,8 +6,7 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=150&fontAlign=80&text=†ジェルばんは†&fontAlignY=350&color=gradientheight=800)
 <div align="left">
     <img align='right' src='https://github.com/fo9c/fo9c/blob/main/image/character/Blue%20Achieve-wife1-half.png' width='387'>
-    <br clear="left"/>
-<img src="https://raw.githubusercontent.com/fo9c/fo9c/main/image/title.svg?v=2" width="50%" height="64" alt="†ジェルばんは† (｡•̀ᴗ-)✧">
+<img src="https://raw.githubusercontent.com/fo9c/fo9c/main/image/title.svg?v=3" width="50%" height="64" alt="†ジェルばんは† (｡•̀ᴗ-)✧">
 <h3>AI Agent Builder · Backend Engineer · Anime Fan</h3>
 <blockquote><code>SYSTEM ONLINE</code> · <code>BUILD MODE: ON</code> · <code>ANIME ENERGY: INFINITE</code></blockquote>
 <p>I build practical AI agents and LLM-powered workflows that connect models, APIs, and repeatable tasks. I also develop backend services with Java and Spring, plus automation tools that help move ideas from prototype to reliable, usable products. I enjoy exploring creative software and finding clear, practical ways to make everyday work easier.</p>
