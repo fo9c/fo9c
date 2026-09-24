@@ -12,7 +12,7 @@
   <img src="https://raw.githubusercontent.com/fo9c/fo9c/main/image/title.svg?v=11" width="50%" height="64" alt="†ジェルばんは† (｡•̀ᴗ-)✧">
 </picture>
 <h3>AI Agent Builder · Backend Engineer · Anime Fan</h3>
-<blockquote><code>BUILD MODE: ON</code> <code>ANIME ENERGY: INFINITE</code> <!-- STATUS_START --><img src="https://raw.githubusercontent.com/fo9c/fo9c/main/image/status-off.svg?v=1" height="24" align="absmiddle" alt="Status: OFF"><!-- STATUS_END --></blockquote>
+<blockquote><code>BUILD MODE: ON</code> <code>ANIME ENERGY: INFINITE</code> <!-- STATUS_START --><img src="https://raw.githubusercontent.com/fo9c/fo9c/main/image/status-off.svg?v=2" height="20" align="absmiddle" alt="Status: OFF"><!-- STATUS_END --></blockquote>
 <p>I build practical AI agents and LLM-powered workflows that connect models, APIs, and repeatable tasks. I also develop backend services with Java and Spring, plus automation tools that help move ideas from prototype to reliable, usable products. I enjoy exploring creative software and finding clear, practical ways to make everyday work easier.</p>
 <p>
   <img alt="AI Agents" src="https://img.shields.io/badge/AI_Agents-252A34?style=flat-square&logo=probot&logoColor=white"> <img alt="LLM API" src="https://img.shields.io/badge/LLM_API-6D4AFF?style=flat-square&logo=json&logoColor=white"> <img alt="Codex" src="https://img.shields.io/badge/Codex-252A34?style=flat-square&logo=gnometerminal&logoColor=white"> <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white">
