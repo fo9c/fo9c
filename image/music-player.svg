@@ -1,0 +1,189 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="540" height="135" viewBox="0 0 540 135" role="img" aria-labelledby="title desc">
+  <title id="title">Custom now playing music player</title>
+  <desc id="desc">A self-contained animated music player card with album art, track information, and an equalizer.</desc>
+  <defs>
+    <linearGradient id="cardGradient" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#161B22"/>
+      <stop offset="1" stop-color="#0D1117"/>
+    </linearGradient>
+    <linearGradient id="coverGradient" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#7C3AED"/>
+      <stop offset="0.48" stop-color="#2563EB"/>
+      <stop offset="1" stop-color="#39D353"/>
+    </linearGradient>
+    <linearGradient id="textGradient" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#58A6FF"/>
+      <stop offset="1" stop-color="#A371F7"/>
+    </linearGradient>
+    <linearGradient id="barGradient" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#39D353"/>
+      <stop offset="0.5" stop-color="#58A6FF"/>
+      <stop offset="1" stop-color="#A371F7"/>
+    </linearGradient>
+    <filter id="coverShadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="3" stdDeviation="4" flood-color="#000000" flood-opacity="0.45"/>
+    </filter>
+    <clipPath id="coverClip">
+      <rect x="7" y="7" width="121" height="121" rx="6"/>
+    </clipPath>
+  </defs>
+
+  <rect x="0.5" y="0.5" width="539" height="134" rx="6" fill="url(#cardGradient)" stroke="#30363D"/>
+
+  <g filter="url(#coverShadow)">
+    <rect x="7" y="7" width="121" height="121" rx="6" fill="url(#coverGradient)"/>
+    <g clip-path="url(#coverClip)" opacity="0.92">
+      <circle cx="68" cy="67" r="55" fill="#0D1117" opacity="0.3"/>
+      <circle cx="68" cy="67" r="42" fill="none" stroke="#F0F6FC" stroke-opacity="0.28" stroke-width="8"/>
+      <circle cx="68" cy="67" r="26" fill="none" stroke="#F0F6FC" stroke-opacity="0.2" stroke-width="2"/>
+      <circle cx="68" cy="67" r="8" fill="#F0F6FC" fill-opacity="0.9"/>
+      <path d="M-10 110 C30 62 52 102 78 52 S132 34 145 -5" fill="none" stroke="#F0F6FC" stroke-opacity="0.35" stroke-width="9"/>
+      <path d="M-10 122 C34 75 55 113 82 64 S132 44 145 10" fill="none" stroke="#0D1117" stroke-opacity="0.28" stroke-width="5"/>
+      <text x="16" y="26" fill="#F0F6FC" fill-opacity="0.9" font-family="monospace" font-size="10" letter-spacing="2">FO9C</text>
+      <text x="16" y="116" fill="#F0F6FC" fill-opacity="0.9" font-family="monospace" font-size="9" letter-spacing="1">CUSTOM MIX</text>
+    </g>
+  </g>
+
+  <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">
+    <text x="143" y="25" fill="#8B949E" font-size="12" letter-spacing="1.2">NOW PLAYING · CUSTOM SESSION</text>
+    <text x="143" y="56" fill="url(#textGradient)" font-size="22" font-weight="600">BUILDING THE FUTURE</text>
+    <text x="143" y="80" fill="#C9D1D9" fill-opacity="0.9" font-size="16">FO9C · AI AGENT MIX</text>
+    <text x="143" y="101" fill="#8B949E" font-family="monospace" font-size="11">SYSTEM ONLINE  ·  BUILD MODE: ON</text>
+  </g>
+
+  <g aria-label="Animated equalizer">
+    <rect x="136" y="106" width="7" height="12" rx="3.5" fill="url(#barGradient)" opacity="0.9">
+      <animate attributeName="height" values="7;22;10;30;14;12;7" dur="1.05s" begin="-0s" repeatCount="indefinite" />
+      <animate attributeName="y" values="111;96;108;88;104;106;111" dur="1.05s" begin="-0s" repeatCount="indefinite" />
+    </rect>
+    <rect x="146" y="100" width="7" height="18" rx="3.5" fill="url(#barGradient)" opacity="0.9">
+      <animate attributeName="height" values="12;30;16;8;24;12;18" dur="1.1600000000000001s" begin="-0.13s" repeatCount="indefinite" />
+      <animate attributeName="y" values="106;88;102;110;94;106;100" dur="1.1600000000000001s" begin="-0.13s" repeatCount="indefinite" />
+    </rect>
+    <rect x="156" y="108" width="7" height="10" rx="3.5" fill="url(#barGradient)" opacity="0.9">
+      <animate attributeName="height" values="8;16;28;12;22;10;26" dur="1.27s" begin="-0.26s" repeatCount="indefinite" />
+      <animate attributeName="y" values="110;102;90;106;96;108;92" dur="1.27s" begin="-0.26s" repeatCount="indefinite" />
+    </rect>
+    <rect x="166" y="94" width="7" height="24" rx="3.5" fill="url(#barGradient)" opacity="0.9">
+      <animate attributeName="height" values="18;8;26;14;30;12;18" dur="1.3800000000000001s" begin="-0.39s" repeatCount="indefinite" />
+      <animate attributeName="y" values="100;110;92;104;88;106;100" dur="1.3800000000000001s" begin="-0.39s" repeatCount="indefinite" />
+    </rect>
+    <rect x="176" y="104" width="7" height="14" rx="3.5" fill="url(#barGradient)" opacity="0.9">
+      <animate attributeName="height" values="10;26;12;20;8;28;14" dur="1.49s" begin="-0.52s" repeatCount="indefinite" />
+      <animate attributeName="y" values="108;92;106;98;110;90;104" dur="1.49s" begin="-0.52s" repeatCount="indefinite" />
+    </rect>
+    <rect x="186" y="98" width="7" height="20" rx="3.5" fill="url(#barGradient)" opacity="0.9">
+      <animate attributeName="height" values="16;32;12;24;10;18;28" dur="1.05s" begin="-0.65s" repeatCount="indefinite" />
+      <animate attributeName="y" values="102;86;106;94;108;100;90" dur="1.05s" begin="-0.65s" repeatCount="indefinite" />
+    </rect>
+    <rect x="196" y="110" width="7" height="8" rx="3.5" fill="url(#barGradient)" opacity="0.9">
+      <animate attributeName="height" values="8;20;12;30;16;10;24" dur="1.1600000000000001s" begin="-0.78s" repeatCount="indefinite" />
+      <animate attributeName="y" values="110;98;106;88;102;108;94" dur="1.1600000000000001s" begin="-0.78s" repeatCount="indefinite" />
+    </rect>
+    <rect x="206" y="102" width="7" height="16" rx="3.5" fill="url(#barGradient)" opacity="0.9">
+      <animate attributeName="height" values="14;28;8;18;30;12;22" dur="1.27s" begin="-0.91s" repeatCount="indefinite" />
+      <animate attributeName="y" values="104;90;110;100;88;106;96" dur="1.27s" begin="-0.91s" repeatCount="indefinite" />
+    </rect>
+    <rect x="216" y="92" width="7" height="26" rx="3.5" fill="url(#barGradient)" opacity="0.9">
+      <animate attributeName="height" values="22;10;26;14;8;24;16" dur="1.3800000000000001s" begin="-1.04s" repeatCount="indefinite" />
+      <animate attributeName="y" values="96;108;92;104;110;94;102" dur="1.3800000000000001s" begin="-1.04s" repeatCount="indefinite" />
+    </rect>
+    <rect x="226" y="106" width="7" height="12" rx="3.5" fill="url(#barGradient)" opacity="0.9">
+      <animate attributeName="height" values="9;24;16;30;12;20;8" dur="1.49s" begin="-0s" repeatCount="indefinite" />
+      <animate attributeName="y" values="109;94;102;88;106;98;110" dur="1.49s" begin="-0s" repeatCount="indefinite" />
+    </rect>
+    <rect x="236" y="100" width="7" height="18" rx="3.5" fill="url(#barGradient)" opacity="0.9">
+      <animate attributeName="height" values="16;8;28;12;24;10;26" dur="1.05s" begin="-0.13s" repeatCount="indefinite" />
+      <animate attributeName="y" values="102;110;90;106;94;108;92" dur="1.05s" begin="-0.13s" repeatCount="indefinite" />
+    </rect>
+    <rect x="246" y="108" width="7" height="10" rx="3.5" fill="url(#barGradient)" opacity="0.9">
+      <animate attributeName="height" values="8;18;30;14;22;12;28" dur="1.1600000000000001s" begin="-0.26s" repeatCount="indefinite" />
+      <animate attributeName="y" values="110;100;88;104;96;106;90" dur="1.1600000000000001s" begin="-0.26s" repeatCount="indefinite" />
+    </rect>
+    <rect x="256" y="96" width="7" height="22" rx="3.5" fill="url(#barGradient)" opacity="0.9">
+      <animate attributeName="height" values="18;30;12;8;26;14;20" dur="1.27s" begin="-0.39s" repeatCount="indefinite" />
+      <animate attributeName="y" values="100;88;106;110;92;104;98" dur="1.27s" begin="-0.39s" repeatCount="indefinite" />
+    </rect>
+    <rect x="266" y="104" width="7" height="14" rx="3.5" fill="url(#barGradient)" opacity="0.9">
+      <animate attributeName="height" values="12;24;8;30;16;22;10" dur="1.3800000000000001s" begin="-0.52s" repeatCount="indefinite" />
+      <animate attributeName="y" values="106;94;110;88;102;96;108" dur="1.3800000000000001s" begin="-0.52s" repeatCount="indefinite" />
+    </rect>
+    <rect x="276" y="98" width="7" height="20" rx="3.5" fill="url(#barGradient)" opacity="0.9">
+      <animate attributeName="height" values="16;28;12;24;8;30;14" dur="1.49s" begin="-0.65s" repeatCount="indefinite" />
+      <animate attributeName="y" values="102;90;106;94;110;88;104" dur="1.49s" begin="-0.65s" repeatCount="indefinite" />
+    </rect>
+    <rect x="286" y="110" width="7" height="8" rx="3.5" fill="url(#barGradient)" opacity="0.9">
+      <animate attributeName="height" values="8;16;26;12;30;18;10" dur="1.05s" begin="-0.78s" repeatCount="indefinite" />
+      <animate attributeName="y" values="110;102;92;106;88;100;108" dur="1.05s" begin="-0.78s" repeatCount="indefinite" />
+    </rect>
+    <rect x="296" y="102" width="7" height="16" rx="3.5" fill="url(#barGradient)" opacity="0.9">
+      <animate attributeName="height" values="14;30;10;22;8;26;16" dur="1.1600000000000001s" begin="-0.91s" repeatCount="indefinite" />
+      <animate attributeName="y" values="104;88;108;96;110;92;102" dur="1.1600000000000001s" begin="-0.91s" repeatCount="indefinite" />
+    </rect>
+    <rect x="306" y="94" width="7" height="24" rx="3.5" fill="url(#barGradient)" opacity="0.9">
+      <animate attributeName="height" values="20;12;28;8;24;14;18" dur="1.27s" begin="-1.04s" repeatCount="indefinite" />
+      <animate attributeName="y" values="98;106;90;110;94;104;100" dur="1.27s" begin="-1.04s" repeatCount="indefinite" />
+    </rect>
+    <rect x="316" y="106" width="7" height="12" rx="3.5" fill="url(#barGradient)" opacity="0.9">
+      <animate attributeName="height" values="10;22;14;30;16;8;24" dur="1.3800000000000001s" begin="-0s" repeatCount="indefinite" />
+      <animate attributeName="y" values="108;96;104;88;102;110;94" dur="1.3800000000000001s" begin="-0s" repeatCount="indefinite" />
+    </rect>
+    <rect x="326" y="100" width="7" height="18" rx="3.5" fill="url(#barGradient)" opacity="0.9">
+      <animate attributeName="height" values="16;28;10;24;12;30;8" dur="1.49s" begin="-0.13s" repeatCount="indefinite" />
+      <animate attributeName="y" values="102;90;108;94;106;88;110" dur="1.49s" begin="-0.13s" repeatCount="indefinite" />
+    </rect>
+    <rect x="336" y="108" width="7" height="10" rx="3.5" fill="url(#barGradient)" opacity="0.9">
+      <animate attributeName="height" values="8;20;30;12;26;14;22" dur="1.05s" begin="-0.26s" repeatCount="indefinite" />
+      <animate attributeName="y" values="110;98;88;106;92;104;96" dur="1.05s" begin="-0.26s" repeatCount="indefinite" />
+    </rect>
+    <rect x="346" y="96" width="7" height="22" rx="3.5" fill="url(#barGradient)" opacity="0.9">
+      <animate attributeName="height" values="18;8;24;14;30;12;26" dur="1.1600000000000001s" begin="-0.39s" repeatCount="indefinite" />
+      <animate attributeName="y" values="100;110;94;104;88;106;92" dur="1.1600000000000001s" begin="-0.39s" repeatCount="indefinite" />
+    </rect>
+    <rect x="356" y="104" width="7" height="14" rx="3.5" fill="url(#barGradient)" opacity="0.9">
+      <animate attributeName="height" values="12;26;10;22;8;30;16" dur="1.27s" begin="-0.52s" repeatCount="indefinite" />
+      <animate attributeName="y" values="106;92;108;96;110;88;102" dur="1.27s" begin="-0.52s" repeatCount="indefinite" />
+    </rect>
+    <rect x="366" y="98" width="7" height="20" rx="3.5" fill="url(#barGradient)" opacity="0.9">
+      <animate attributeName="height" values="16;30;12;24;8;18;28" dur="1.3800000000000001s" begin="-0.65s" repeatCount="indefinite" />
+      <animate attributeName="y" values="102;88;106;94;110;100;90" dur="1.3800000000000001s" begin="-0.65s" repeatCount="indefinite" />
+    </rect>
+    <rect x="376" y="110" width="7" height="8" rx="3.5" fill="url(#barGradient)" opacity="0.9">
+      <animate attributeName="height" values="8;18;28;12;22;30;14" dur="1.49s" begin="-0.78s" repeatCount="indefinite" />
+      <animate attributeName="y" values="110;100;90;106;96;88;104" dur="1.49s" begin="-0.78s" repeatCount="indefinite" />
+    </rect>
+    <rect x="386" y="102" width="7" height="16" rx="3.5" fill="url(#barGradient)" opacity="0.9">
+      <animate attributeName="height" values="14;24;8;30;12;26;18" dur="1.05s" begin="-0.91s" repeatCount="indefinite" />
+      <animate attributeName="y" values="104;94;110;88;106;92;100" dur="1.05s" begin="-0.91s" repeatCount="indefinite" />
+    </rect>
+    <rect x="396" y="94" width="7" height="24" rx="3.5" fill="url(#barGradient)" opacity="0.9">
+      <animate attributeName="height" values="20;10;28;14;8;24;16" dur="1.1600000000000001s" begin="-1.04s" repeatCount="indefinite" />
+      <animate attributeName="y" values="98;108;90;104;110;94;102" dur="1.1600000000000001s" begin="-1.04s" repeatCount="indefinite" />
+    </rect>
+    <rect x="406" y="106" width="7" height="12" rx="3.5" fill="url(#barGradient)" opacity="0.9">
+      <animate attributeName="height" values="10;28;16;8;24;14;30" dur="1.27s" begin="-0s" repeatCount="indefinite" />
+      <animate attributeName="y" values="108;90;102;110;94;104;88" dur="1.27s" begin="-0s" repeatCount="indefinite" />
+    </rect>
+    <rect x="416" y="100" width="7" height="18" rx="3.5" fill="url(#barGradient)" opacity="0.9">
+      <animate attributeName="height" values="16;8;26;12;30;18;10" dur="1.3800000000000001s" begin="-0.13s" repeatCount="indefinite" />
+      <animate attributeName="y" values="102;110;92;106;88;100;108" dur="1.3800000000000001s" begin="-0.13s" repeatCount="indefinite" />
+    </rect>
+    <rect x="426" y="108" width="7" height="10" rx="3.5" fill="url(#barGradient)" opacity="0.9">
+      <animate attributeName="height" values="8;22;14;30;18;26;12" dur="1.49s" begin="-0.26s" repeatCount="indefinite" />
+      <animate attributeName="y" values="110;96;104;88;100;92;106" dur="1.49s" begin="-0.26s" repeatCount="indefinite" />
+    </rect>
+    <rect x="436" y="96" width="7" height="22" rx="3.5" fill="url(#barGradient)" opacity="0.9">
+      <animate attributeName="height" values="18;30;10;24;8;16;28" dur="1.05s" begin="-0.39s" repeatCount="indefinite" />
+      <animate attributeName="y" values="100;88;108;94;110;102;90" dur="1.05s" begin="-0.39s" repeatCount="indefinite" />
+    </rect>
+    <rect x="446" y="104" width="7" height="14" rx="3.5" fill="url(#barGradient)" opacity="0.9">
+      <animate attributeName="height" values="12;26;8;20;30;14;22" dur="1.1600000000000001s" begin="-0.52s" repeatCount="indefinite" />
+      <animate attributeName="y" values="106;92;110;98;88;104;96" dur="1.1600000000000001s" begin="-0.52s" repeatCount="indefinite" />
+    </rect>
+    <rect x="456" y="98" width="7" height="20" rx="3.5" fill="url(#barGradient)" opacity="0.9">
+      <animate attributeName="height" values="16;28;12;8;24;30;14" dur="1.27s" begin="-0.65s" repeatCount="indefinite" />
+      <animate attributeName="y" values="102;90;106;110;94;88;104" dur="1.27s" begin="-0.65s" repeatCount="indefinite" />
+    </rect>
+  </g>
+</svg>
+
