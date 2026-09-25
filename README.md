@@ -5,7 +5,7 @@
 
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=150&fontAlign=80&text=†ジェルばんは†&fontAlignY=350&color=gradientheight=800)
 <div align="left">
-    <img align='right' src='https://raw.githubusercontent.com/fo9c/fo9c/main/image/character/Blue%20Achieve-wife1-half.png' width='45%' alt='Profile character'>
+    <img align='right' src='https://raw.githubusercontent.com/fo9c/fo9c/main/image/character/Blue%20Achieve-wife1-half.png' width='47%' alt='Profile character'>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fo9c/fo9c/main/image/title-dark.svg?v=1">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fo9c/fo9c/main/image/title.svg?v=11">
@@ -21,7 +21,7 @@
 </p>
 
 <h3>🌸 Visitors Count Received</h3>
-<div><img src="https://count.getloli.com/get/@fo9c.github.readme?theme=rule34" width="420" alt="Visitor count"></div>
+<div><img src="https://count.getloli.com/get/@fo9c.github.readme?theme=rule34" width="480" alt="Visitor count"></div>
 <br clear="right">
 <img src="https://raw.githubusercontent.com/fo9c/fo9c/main/image/divider.svg?v=8" width="100%" height="1" align="top" alt="">
 </div>
