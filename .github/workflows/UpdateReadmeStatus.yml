@@ -26,10 +26,10 @@ jobs:
         run: |
           hour="$(TZ=Asia/Shanghai date +%H)"
           if (( 10 <= 10#$hour && 10#$hour < 22 )); then
-            badge='https://raw.githubusercontent.com/fo9c/fo9c/main/image/status-online.svg?v=1'
+            badge='https://raw.githubusercontent.com/fo9c/fo9c/main/image/status-online.svg?v=2'
             alt='Status: ONLINE'
           else
-            badge='https://raw.githubusercontent.com/fo9c/fo9c/main/image/status-off.svg?v=1'
+            badge='https://raw.githubusercontent.com/fo9c/fo9c/main/image/status-off.svg?v=2'
             alt='Status: OFF'
           fi
 
@@ -41,7 +41,7 @@ jobs:
           text = path.read_text(encoding="utf-8")
           start = "<!-- STATUS_START -->"
           end = "<!-- STATUS_END -->"
-          replacement = f'{start}<img src="{sys.argv[1]}" height="24" align="absmiddle" alt="{sys.argv[2]}">{end}'
+          replacement = f'{start}<img src="{sys.argv[1]}" height="20" align="absmiddle" alt="{sys.argv[2]}">{end}'
           before, marker, after = text.partition(start)
           if not marker:
               raise SystemExit("STATUS_START marker not found")
