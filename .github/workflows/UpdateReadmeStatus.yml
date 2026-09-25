@@ -3,7 +3,6 @@ name: Update README status
 on:
   schedule:
     - cron: "0,30,40 * * * *"
-      timezone: "Asia/Shanghai"
   workflow_dispatch:
 
 permissions:
