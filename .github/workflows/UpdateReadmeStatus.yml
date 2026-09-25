@@ -16,49 +16,45 @@ concurrency:
 jobs:
   update:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Check out the profile repository
-        uses: actions/checkout@v6
-
-      - name: Select the time-based status badge
+      - uses: actions/checkout@v6
+      - name: Update time based profile states
         shell: bash
         run: |
-          hour="$(TZ=Asia/Shanghai date +%H)"
-          if (( 10 <= 10#$hour && 10#$hour < 22 )); then
-            badge='https://raw.githubusercontent.com/fo9c/fo9c/main/image/status-online.svg?v=2'
-            alt='Status: ONLINE'
-          else
-            badge='https://raw.githubusercontent.com/fo9c/fo9c/main/image/status-off.svg?v=2'
-            alt='Status: OFF'
-          fi
-
-          python3 - "$badge" "$alt" <<'PY'
+          python3 - <<'PY'
+          from datetime import datetime
+          from zoneinfo import ZoneInfo
           from pathlib import Path
-          import sys
+          import re
 
+          now = datetime.now(ZoneInfo("Asia/Shanghai"))
+          weekday = now.weekday() < 5
+          minutes = now.hour * 60 + now.minute
+
+          coding = weekday and 8 * 60 + 40 <= minutes < 18 * 60 + 40
+          anime = 22 * 60 <= minutes < 23 * 60 + 30
+          system = 7 * 60 + 30 <= minutes < 24 * 60
+
+          states = {
+              "CODING": ("on" if coding else "off", "ON" if coding else "OFF"),
+              "ANIME": ("active" if anime else "idle", "ACTIVE" if anime else "IDLE"),
+              "SYSTEM": ("online" if system else "offline", "ONLINE" if system else "OFFLINE"),
+          }
           path = Path("README.md")
           text = path.read_text(encoding="utf-8")
-          start = "<!-- STATUS_START -->"
-          end = "<!-- STATUS_END -->"
-          replacement = f'{start}<img src="{sys.argv[1]}" height="20" align="absmiddle" alt="{sys.argv[2]}">{end}'
-          before, marker, after = text.partition(start)
-          if not marker:
-              raise SystemExit("STATUS_START marker not found")
-          _, marker_end, tail = after.partition(end)
-          if not marker_end:
-              raise SystemExit("STATUS_END marker not found")
-          path.write_text(before + replacement + tail, encoding="utf-8")
+          for key, (asset, label) in states.items():
+              start, end = f"<!-- {key}_STATUS_START -->", f"<!-- {key}_STATUS_END -->"
+              pattern = re.escape(start) + r".*?" + re.escape(end)
+              replacement = f'{start}<img src="https://raw.githubusercontent.com/fo9c/fo9c/main/image/status-{asset}.svg?v=1" height="20" align="absmiddle" alt="{key.title()}: {label}">{end}'
+              text, count = re.subn(pattern, replacement, text, count=1, flags=re.S)
+              if count != 1:
+                  raise SystemExit(f"Missing marker for {key}")
+          path.write_text(text, encoding="utf-8")
           PY
-
-      - name: Commit the status change
+      - name: Commit status changes
         shell: bash
         run: |
-          if git diff --quiet -- README.md; then
-            echo "README status is already current."
-            exit 0
-          fi
-
+          if git diff --quiet -- README.md; then exit 0; fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add README.md
