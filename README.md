@@ -20,8 +20,8 @@
 <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D"> <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white"> <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"> <img alt="GitHub" src="https://img.shields.io/badge/GitHub-252A34?style=flat-square&logo=github&logoColor=white"> <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"> <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=1B1B1B"> <img alt="macOS" src="https://img.shields.io/badge/macOS-252A34?style=flat-square&logo=apple&logoColor=white">
 </p>
 
-<h4>🌸 Visitors Count Received</h4>
-<div><img src="https://count.getloli.com/get/@fo9c.github.readme?theme=rule34" width="370" alt="Visitor count"></div>
+<div><strong>🌸 Visitors Count Received</strong></div>
+<div><img src="https://count.getloli.com/get/@fo9c.github.readme?theme=rule34" width="420" alt="Visitor count"></div>
 <br clear="right">
 <img src="https://raw.githubusercontent.com/fo9c/fo9c/main/image/divider.svg?v=8" width="100%" height="1" align="top" alt="">
 </div>
