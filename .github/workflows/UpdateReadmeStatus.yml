@@ -35,16 +35,16 @@ jobs:
           system = 7 * 60 + 30 <= minutes < 24 * 60
 
           states = {
-              "CODING": ("on" if coding else "off", "ON" if coding else "OFF", "Code Mode"),
-              "PRESENCE": (("anime-active" if anime else ("online" if system else "offline")),
-                           ("ANIME MODE: ACTIVE" if anime else ("ONLINE" if system else "OFFLINE")), "Presence"),
+              "CODING": ("on" if coding else "off", "ON" if coding else "OFF"),
+              "PRESENCE": ("anime-active" if anime else ("online" if system else "offline"),
+                           "ANIME MODE: ACTIVE" if anime else ("ONLINE" if system else "OFFLINE")),
           }
           path = Path("README.md")
           text = path.read_text(encoding="utf-8")
-          for key, (asset, label, alt_key) in states.items():
+          for key, (asset, label) in states.items():
               start, end = f"<!-- {key}_STATUS_START -->", f"<!-- {key}_STATUS_END -->"
               pattern = re.escape(start) + r".*?" + re.escape(end)
-              replacement = f'{start}<img src="https://raw.githubusercontent.com/fo9c/fo9c/main/image/status-{asset}.svg?v=2" height="20" align="absmiddle" alt="{label}">{end}'
+              replacement = f'{start}<img src="https://raw.githubusercontent.com/fo9c/fo9c/main/image/status-{asset}.svg?v=3" height="20" align="absmiddle" alt="{label}">{end}'
               text, count = re.subn(pattern, replacement, text, count=1, flags=re.S)
               if count != 1:
                   raise SystemExit(f"Missing marker for {key}")
