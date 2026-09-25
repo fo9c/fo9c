@@ -12,8 +12,9 @@
   <img src="https://raw.githubusercontent.com/fo9c/fo9c/main/image/title.svg?v=11" width="50%" height="64" alt="†ジェルばんは† (｡•̀ᴗ-)✧">
 </picture>
 <h3>AI Agent Builder · Backend Engineer · Anime Fan</h3>
-<blockquote><code>BUILD MODE: ON</code> <code>ANIME ENERGY: INFINITE</code> <!-- STATUS_START --><img src="https://raw.githubusercontent.com/fo9c/fo9c/main/image/status-online.svg?v=1" height="24" align="absmiddle" alt="Status: ONLINE"><!-- STATUS_END --></blockquote>
-<p>Building AI agents, LLM workflows, backend services, and automation systems. Exploring how models, APIs, and reliable engineering can come together to create practical products.</p>
+<blockquote><code>BUILD MODE: ON</code> <code>ANIME ENERGY: INFINITE</code> <!-- STATUS_START --><img src="https://raw.githubusercontent.com/fo9c/fo9c/main/image/status-online.svg?v=2" height="20" align="absmiddle" alt="Status: ONLINE"><!-- STATUS_END --></blockquote>
+<p>Building AI agents, LLM workflows, backend services, media tools, and automation systems. Exploring how models, APIs, and reliable engineering can come together to create practical products.</p>
+<p>Outside of development, I am fascinated by distinctive aesthetics found in everyday life, unusual words and concepts, expressive illustration, and the imaginative world of anime.</p>
 <p>
   <img alt="AI Agents" src="https://img.shields.io/badge/AI_Agents-252A34?style=flat-square&logo=probot&logoColor=white"> <img alt="LLM API" src="https://img.shields.io/badge/LLM_API-6D4AFF?style=flat-square&logo=json&logoColor=white"> <img alt="Codex" src="https://img.shields.io/badge/Codex-252A34?style=flat-square&logo=gnometerminal&logoColor=white"> <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white">
   <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"> <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"> <img alt="MyBatis" src="https://img.shields.io/badge/MyBatis-3B1F47?style=flat-square&logo=databricks&logoColor=white"> <img alt="Maven" src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white"> <img alt="Cassandra" src="https://img.shields.io/badge/Cassandra-1287B1?style=flat-square&logo=apachecassandra&logoColor=white"> <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=nodedotjs&logoColor=white"> <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
@@ -22,7 +23,8 @@
 
 <h3>🌸 Visitors Count Received</h3>
 <div><img src="https://count.getloli.com/get/@fo9c.github.readme?theme=rule34" width="370" alt="Visitor count"></div>
-<img src="https://raw.githubusercontent.com/fo9c/fo9c/main/image/divider.svg?v=7" width="100%" height="1" align="top" alt="">
+<br clear="right">
+<img src="https://raw.githubusercontent.com/fo9c/fo9c/main/image/divider.svg?v=8" width="100%" height="1" align="top" alt="">
 </div>
 
 <!-- ------------------------------------------------------------------------------------------------- -->
